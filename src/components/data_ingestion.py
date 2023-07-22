@@ -9,6 +9,12 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
+from src.components.data_transformation import DataTransformation
+from src.components.data_transformation import DataTransformationConfig
+
+from src.components.model_trainer import ModelTrainerConfig
+from src.components.model_trainer import ModelTrainer
+
 
 # This set of code will be passed  
 @dataclass
@@ -30,7 +36,7 @@ class DataIngestion:
         logging.info("Entered the data ingestion method or component")
         try:
             # Read the dataset
-            df = pd.read_csv('notebook/laptop_price.csv', encoding='latin1')
+            df = pd.read_csv('notebook/Laptop.csv', encoding='latin1')
             logging.info('Read the dataset as dataframe')
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
@@ -55,7 +61,12 @@ class DataIngestion:
         
 if __name__ == "__main__":
     obj=DataIngestion()
-    obj.initiate_data_ingestion()
+    train_data, test_data=obj.initiate_data_ingestion()
 
-
+    data_transformation=DataTransformation()
+    train_arr,test_arr,_ = data_transformation.initiate_data_transformation(train_data,test_data)
         # Keep writing logs so you can know where the problems are with your code
+    
+    model_trainer = ModelTrainer()
+    model_trainer.initiate_model_trainer(train_arr,test_arr)
+    print(model_trainer.initiate_model_trainer(train_arr, test_arr))
