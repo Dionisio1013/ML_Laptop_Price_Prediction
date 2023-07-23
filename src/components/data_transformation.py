@@ -6,7 +6,8 @@ import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder
+from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder, OrdinalEncoder
+from sklearn.base import TransformerMixin
 from src.exception import CustomException
 from src.logger import logging
 from scipy import sparse
@@ -16,29 +17,29 @@ from src.utils import save_object
 
 @dataclass
 class DataTransformationConfig:
-    preprocessor_obj_file_path=os.path.join('artifacts',"proprocessor.pkl")
+    preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pk1")
 
 
 # class OrdinalEncoder:
 #     def __init__(self):
         
 
-# class FrequencyEncoder:
-#     # Creating an empty dictionary for the categorical variable columns
-#     def __init__(self):
-#         self.frequency_map = {}
+class FrequencyEncoder(TransformerMixin):
+    # Creating an empty dictionary for the categorical variable columns
+    def __init__(self):
+        self.frequency_map = {}
+        #self.columns = 
     
-#     def fit(self, X, y=None):
-#         for column in X.columns:
-#             self.frequency_map[column] = X[column].value_counts(normalize = True)
-#         return self
-    
-#     def transform(self, X):
-#         for column in X.columns:
-#             X[column] = X[column].map(self.frequency_map[column])
-#         return X
-    
+    def fit(self, X):
+        for col in self.columns:
+            self.frequency_map[col] = X[col].value_counts(normalize=True).to_dict()
+        return self
 
+    def transform(self, X):
+        X_encoded = X.copy()
+        for col in self.columns:
+            X_encoded[col] = X_encoded[col].map(self.freq_mapping[col])
+        return X_encoded
 
 
 class DataTransformation:
@@ -51,22 +52,30 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ["Inches", "4K", "IPS", "Weight", "Touchscreen", "Ghz", "Ram"]
-            categorical_ordinal_columns = ["Resolution","Memory"]
-            categorical_frequency_columns = ["Company", "TypeName","Gpu_Brand","OpSys","Processor"]
+            numerical_columns = ["is_4K", "IPS", "Touchscreen", "Ghz", "Ram"]
+            categorical_frequency_columns = ["TypeName","Gpu_Brand","OpSys","Processor"]
+
+            categorical_ordinal_encoding_columns = ["Resolution", "Memory"]
+            categorical_frequency_encoding_columns = ["Company", "TypeName", "Gpu_Brand", "OpSys", "Processor"]
 
             num_pipeline= Pipeline(
                 steps=[
                 ("imputer",SimpleImputer(strategy="median")),
                 ("scaler",StandardScaler())
-
                 ]
             )
 
             cat_frequency_pipeline=Pipeline(
                 steps=[
                 ("imputer",SimpleImputer(strategy="most_frequent")),
-                ("label_encoder", OneHotEncoder())
+                ("label_encoder", OneHotEncoder(handle_unknown = 'ignore'))
+                ]
+            )
+
+            cat_ordinal_encode_pipeline=Pipeline(
+                steps=[
+                ("imputer",SimpleImputer(strategy="most_frequent")),
+                ("ordinal_encoder", OrdinalEncoder())
                 ]
             )
 
@@ -78,7 +87,7 @@ class DataTransformation:
                 [
                 ("num_pipeline",num_pipeline,numerical_columns)
                 ,("cat_frequency_pipeline",cat_frequency_pipeline,categorical_frequency_columns)
-
+                ,("cat_ordinal_encode_pipeline",cat_ordinal_encode_pipeline,categorical_ordinal_encoding_columns)
                 ]
             )
 

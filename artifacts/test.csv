@@ -1,4 +1,4 @@
-Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
+Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,is_4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
 Toshiba,Notebook,13.3,8,256GB,Windows 10,1.05,1672.0,1,0,0,1920x1080,Intel,2.5,Intel
 HP,Notebook,13.3,8,256GB,Windows 10,1.11,1149.0,1,0,0,1920x1080,Intel,2.5,Intel
 Lenovo,Notebook,15.6,6,1TB,Windows 10,2.4,499.0,0,0,0,1920x1080,AMD,2.4,AMD

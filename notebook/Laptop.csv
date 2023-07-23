@@ -1,4 +1,4 @@
-Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
+Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,is_4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
 Apple,Ultrabook,13.3,8,128GB,macOS,1.37,1339.69,1,0,0,2560x1600,Intel,2.3,Intel
 Apple,Ultrabook,13.3,8,128GB,macOS,1.34,898.94,0,0,0,1440x900,Intel,1.8,Intel
 HP,Notebook,15.6,8,256GB,No OS,1.86,575.0,0,0,0,1920x1080,Intel,2.5,Intel

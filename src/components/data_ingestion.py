@@ -39,6 +39,21 @@ class DataIngestion:
             df = pd.read_csv('notebook/Laptop.csv', encoding='latin1')
             logging.info('Read the dataset as dataframe')
 
+
+            # Feature Engineering
+            print(df['Memory'].unique())
+            df['Memory'] = df['Memory'].replace('1.0TB', '1TB')
+            print(df['Memory'].unique())
+            memory_ordered = ['8GB', '16GB', '32GB', '64GB', '128GB', '180GB', '240GB', '256GB', '500GB', '508GB', '512GB', '1TB', '2TB']
+            print(pd.Categorical(df['Memory'], categories = memory_ordered, ordered = True))
+            df['Memory'] = pd.Categorical(df['Memory'], categories = memory_ordered, ordered = True)
+
+            resolution_ordered = ['1366x768', '1440x900', '1600x900', '1920x1080', '1920x1200', '2160x1440', '2256x1504', '2304x1440', '2400x1600', '2560x1440', '2560x1600', '2736x1824', '2880x1800', '3200x1800', '3840x2160']
+            print(pd.Categorical(df['Resolution'], categories=resolution_ordered, ordered = True))
+            # This code is basically telling the computer that there is an order between these cateogrical variables 
+            # making them ordinal
+            df['Resolution'] = pd.Categorical(df['Resolution'], categories=resolution_ordered, ordered = True)
+
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
 
             df.to_csv(self.ingestion_config.raw_data_path, index = False, header = True)

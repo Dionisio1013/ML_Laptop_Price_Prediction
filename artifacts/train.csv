@@ -1,4 +1,4 @@
-Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
+Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,is_4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
 HP,Notebook,15.6,4,500GB,No OS,1.86,393.9,0,0,0,1366x768,Intel,2.5,Intel
 Asus,Notebook,15.6,4,1TB,Windows 10,2.0,344.0,0,0,0,1920x1080,Intel,1.1,Intel
 HP,Notebook,15.6,6,1TB,Windows 10,2.19,764.0,0,0,0,1366x768,Intel,2.5,AMD
