@@ -52,11 +52,8 @@ class DataTransformation:
         
         '''
         try:
-            numerical_columns = ["is_4K", "IPS", "Touchscreen", "Ghz", "Ram"]
-            categorical_frequency_columns = ["TypeName","Gpu_Brand","OpSys","Processor"]
-
-            categorical_ordinal_encoding_columns = ["Resolution", "Memory"]
-            categorical_frequency_encoding_columns = ["Company", "TypeName", "Gpu_Brand", "OpSys", "Processor"]
+            numerical_columns = ["Ghz", "Ssd", "memory/ram"]
+            categorical_ordinal_encoding_columns = ["graphics_quality", "resolution"]
 
             num_pipeline= Pipeline(
                 steps=[
@@ -65,28 +62,28 @@ class DataTransformation:
                 ]
             )
 
-            cat_frequency_pipeline=Pipeline(
-                steps=[
-                ("imputer",SimpleImputer(strategy="most_frequent")),
-                ("label_encoder", OneHotEncoder(handle_unknown = 'ignore'))
-                ]
-            )
+            # cat_frequency_pipeline=Pipeline(
+            #     steps=[
+            #     ("imputer",SimpleImputer(strategy="most_frequent")),
+            #     ("label_encoder", OneHotEncoder(handle_unknown = 'ignore'))
+            #     ]
+            # )
 
             cat_ordinal_encode_pipeline=Pipeline(
                 steps=[
                 ("imputer",SimpleImputer(strategy="most_frequent")),
-                ("ordinal_encoder", OrdinalEncoder())
+                ("ordinal_encoder", OrdinalEncoder(handle_unknown = 'use_encoded_value', unknown_value=-1))
                 ]
             )
 
 
-            logging.info(f"Categorical columns: {categorical_frequency_columns}")
+            logging.info(f"Categorical columns: {categorical_ordinal_encoding_columns}")
             logging.info(f"Numerical columns: {numerical_columns}")
 
             preprocessor=ColumnTransformer(
                 [
                 ("num_pipeline",num_pipeline,numerical_columns)
-                ,("cat_frequency_pipeline",cat_frequency_pipeline,categorical_frequency_columns)
+                # ,("cat_frequency_pipeline",cat_frequency_pipeline,categorical_frequency_columns)
                 ,("cat_ordinal_encode_pipeline",cat_ordinal_encode_pipeline,categorical_ordinal_encoding_columns)
                 ]
             )
@@ -108,7 +105,7 @@ class DataTransformation:
 
             preprocessing_obj=self.get_data_transformer_object()
 
-            target_column_name="Price_euros"
+            target_column_name="price"
             print("Shape before ASDASD: X data",train_df.shape)
 
             input_feature_train_df=train_df.drop(columns=[target_column_name],axis=1)
@@ -161,10 +158,3 @@ class DataTransformation:
             )
         except Exception as e:
             raise CustomException(e,sys)
-
-
-
-
-
-
-        

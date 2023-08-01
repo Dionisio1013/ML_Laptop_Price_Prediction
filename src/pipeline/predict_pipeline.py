@@ -23,48 +23,27 @@ class PredictPipeline:
 
 class CustomData:
     def __init__(   self,
-        TypeName: str,
-        Company: str,
-        OpSys: str,
         Ram: int,
-        Memory: str,
+        Ssd: int,
         Resolution: str,
         Ghz: float,
-        Touchscreen: bool,
-        IPS: bool,
-        is_4K: bool,
-        Processor: str,
-        Gpu_Brand: str):
+        Graphics: str):
     
-        self.TypeName = TypeName
-        self.Company = Company
-        self.OpSys = OpSys
         self.Ram = Ram
-        self.Memory = Memory
+        self.Ssd = Ssd
         self.Resolution = Resolution
         self.Ghz = Ghz
-        self.Touchscreen = Touchscreen
-        self.IPS = IPS
-        self.is_4K = is_4K
-        self.Processor = Processor
-        self.Gpu_Brand = Gpu_Brand
+        self.Graphics = Graphics
         
     # This will return inputs to a form of a data frame
     def get_data_as_data_frame(self):
         try: 
             custom_data_input_dict = {
-                "TypeName": [self.TypeName],
-                "Company": [self.Company],
-                "OpSys": [self.OpSys],
-                "Ram": [self.Ram],
-                "Memory": [self.Memory],
-                "Resolution": [self.Resolution],
+                "memory/ram": [self.Ram],
+                "Ssd": [self.Ssd],
+                "resolution": [self.Resolution],
                 "Ghz": [self.Ghz],
-                "Touchscreen": [self.Touchscreen],
-                "IPS": [self.IPS],
-                "is_4K": [self.is_4K],
-                "Processor": [self.Processor],
-                "Gpu_Brand": [self.Gpu_Brand]
+                "graphics_quality": [self.Graphics]
             }
             return pd.DataFrame(custom_data_input_dict)
         

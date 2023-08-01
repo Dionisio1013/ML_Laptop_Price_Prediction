@@ -1,262 +1,165 @@
-Company,TypeName,Inches,Ram,Memory,OpSys,Weight,Price_euros,IPS,is_4K,Touchscreen,Resolution,Processor,Ghz,Gpu_Brand
-Toshiba,Notebook,13.3,8,256GB,Windows 10,1.05,1672.0,1,0,0,1920x1080,Intel,2.5,Intel
-HP,Notebook,13.3,8,256GB,Windows 10,1.11,1149.0,1,0,0,1920x1080,Intel,2.5,Intel
-Lenovo,Notebook,15.6,6,1TB,Windows 10,2.4,499.0,0,0,0,1920x1080,AMD,2.4,AMD
-Lenovo,Notebook,15.6,8,1TB,Windows 10,2.6,899.0,1,0,0,1920x1080,Intel,2.6,Nvidia
-HP,Ultrabook,12.5,4,256GB,Windows 10,1.26,1244.0,0,0,0,1366x768,Intel,2.3,Intel
-HP,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.26,1398.99,1,0,1,1920x1080,Intel,1.6,Intel
-HP,Notebook,13.3,4,128GB,Windows 10,1.49,719.0,0,0,0,1920x1080,Intel,2.4,Intel
-Lenovo,Notebook,15.6,8,2TB,No OS,2.2,459.0,0,0,0,1366x768,Intel,2.0,Nvidia
-HP,Gaming,17.3,8,128GB,Windows 10,3.35,1191.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Notebook,15.6,4,500GB,Windows 10,2.1,349.0,0,0,0,1920x1080,AMD,1.5,AMD
-Lenovo,2 in 1 Convertible,15.6,16,512GB,Windows 10,2.0,1899.0,1,1,1,3840x2160,Intel,2.8,Nvidia
-Dell,Notebook,15.6,8,1TB,Linux,1.98,726.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.24,1813.0,0,0,1,3200x1800,Intel,1.2,Intel
-Dell,Notebook,15.6,8,1TB,Linux,2.3,805.99,0,0,0,1366x768,Intel,2.7,AMD
-Asus,Gaming,17.3,16,256GB,Windows 10,2.9,1949.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Lenovo,2 in 1 Convertible,14.0,8,256GB,Windows 10,1.74,899.0,1,0,0,1920x1080,Intel,1.6,Intel
-HP,Ultrabook,13.3,8,256GB,Windows 10,1.34,1145.0,1,0,0,3200x1800,Intel,2.7,Intel
-Dell,Notebook,15.6,8,1TB,Windows 10,1.98,961.0,0,0,0,1920x1080,Intel,2.7,Nvidia
-Dell,Notebook,15.6,12,1TB,Windows 10,2.3,713.07,0,0,0,1366x768,Intel,2.7,Intel
-Samsung,Ultrabook,13.3,16,256GB,Windows 10,0.81,1649.0,0,0,0,1920x1080,Intel,2.7,Intel
-MSI,Gaming,17.3,16,128GB,Windows 10,4.5,2349.0,0,0,0,1920x1080,Intel,2.7,Nvidia
-Asus,Notebook,15.6,4,500GB,Windows 10,2.2,720.32,0,0,0,1366x768,Intel,2.5,Nvidia
-Dell,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.62,798.01,0,0,1,1920x1080,Intel,2.5,Intel
-Mediacom,Notebook,14.0,4,32GB,Windows 10,1.4,265.0,1,0,0,1920x1200,Intel,1.92,Intel
-Dell,Ultrabook,14.0,8,256GB,Windows 10,1.6,1149.0,0,0,0,1920x1080,Intel,1.6,Intel
-Dell,2 in 1 Convertible,17.3,12,1TB,Windows 10,2.77,999.0,0,0,1,1920x1080,Intel,1.6,Nvidia
-Dell,Notebook,15.6,4,500GB,Windows 10,1.93,959.0,0,0,0,1366x768,Intel,2.6,Intel
-Dell,Notebook,15.6,4,500GB,Windows 10,1.9,825.0,0,0,0,1366x768,Intel,2.5,Intel
-HP,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.28,2277.0,0,0,1,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,1.9,1179.0,0,0,0,1920x1080,Intel,2.6,Intel
-Dell,Notebook,15.6,6,1TB,Windows 10,2.3,459.0,0,0,0,1366x768,Intel,2.4,Intel
-Toshiba,Ultrabook,14.0,8,256GB,Windows 10,1.47,1725.0,1,0,0,1920x1080,Intel,2.6,Intel
-HP,Ultrabook,13.3,8,512GB,Windows 10,1.16,1969.0,0,0,0,1920x1080,Intel,2.5,Intel
-Lenovo,2 in 1 Convertible,15.6,8,256GB,Windows 10,2.08,959.0,0,0,1,1920x1080,Intel,2.5,AMD
-Toshiba,Notebook,15.6,8,256GB,Windows 10,2.0,943.0,1,0,0,1920x1080,Intel,2.5,Intel
-Acer,Notebook,15.6,8,1TB,Windows 10,2.2,745.0,1,0,0,1920x1080,Intel,1.8,Nvidia
-Lenovo,Notebook,15.6,8,1TB,No OS,2.2,659.01,0,0,0,1920x1080,Intel,2.7,Nvidia
-Lenovo,Notebook,15.6,4,256GB,Windows 10,2.2,399.0,0,0,0,1920x1080,AMD,2.9,AMD
-MSI,Gaming,15.6,8,128GB,Windows 10,2.4,1229.0,0,0,0,1920x1080,Intel,2.6,Nvidia
-Acer,Notebook,14.0,2,32GB,Chrome OS,1.68,330.0,0,0,0,1366x768,Intel,1.6,Intel
-Microsoft,Ultrabook,13.5,8,256GB,Windows 10 S,1.252,1867.85,0,0,1,2256x1504,Intel,2.8,Intel
-Lenovo,Notebook,15.6,8,2TB,No OS,2.2,519.0,0,0,0,1920x1080,Intel,2.5,Intel
-Asus,2 in 1 Convertible,15.6,8,1TB,Windows 10,2.2,739.0,0,0,1,1366x768,Intel,2.5,Intel
-Lenovo,Gaming,17.3,16,128GB,Windows 10,4.6,2289.99,1,0,0,1920x1080,Intel,2.6,Nvidia
-Dell,Notebook,15.6,4,128GB,Windows 10,2.18,547.0,0,0,0,1366x768,Intel,2.4,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,1.9,1377.0,0,0,0,1920x1080,Intel,2.8,Intel
-Asus,Ultrabook,15.6,16,512GB,Windows 10,1.8,1983.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Notebook,14.0,2,32GB,Windows 10,1.44,279.0,0,0,0,1366x768,Intel,1.6,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,2.18,795.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Ultrabook,13.3,8,256GB,Windows 10,1.29,1458.0,0,0,0,1920x1080,Intel,2.7,Intel
-Lenovo,Ultrabook,14.0,8,256GB,Windows 10,1.32,1499.0,1,0,0,1920x1080,Intel,2.5,Intel
-HP,Notebook,15.6,8,2TB,Windows 10,2.04,629.0,0,0,0,1366x768,AMD,2.5,AMD
-Xiaomi,Notebook,15.6,8,256GB,No OS,1.95,1199.0,1,0,0,1920x1080,Intel,1.6,Nvidia
-HP,Notebook,14.0,4,256GB,Windows 10,1.48,1099.99,0,0,0,1366x768,Intel,2.4,Intel
-Dell,Notebook,15.6,8,2TB,Windows 10,2.36,557.37,0,0,1,1366x768,Intel,2.5,Intel
-Asus,Ultrabook,13.3,8,512GB,Windows 10,1.45,1026.0,1,0,0,1920x1080,Intel,2.3,Nvidia
-HP,Notebook,14.0,2,32GB,Windows 10,1.44,249.0,0,0,0,1366x768,Intel,1.6,Intel
-Dell,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.62,819.0,0,0,1,1920x1080,Intel,1.6,Intel
-Asus,Notebook,14.0,8,256GB,Windows 10,1.4,941.0,0,0,0,1920x1080,Intel,1.6,Intel
-Lenovo,Notebook,15.6,8,1TB,Windows 10,2.6,899.0,1,0,0,1920x1080,Intel,2.6,Nvidia
-Dell,Notebook,15.6,8,256GB,Windows 10,2.06,1749.0,0,1,1,3840x2160,Intel,2.5,Nvidia
-Acer,Notebook,15.6,8,256GB,Windows 10,2.2,841.0,1,0,0,1920x1080,Intel,1.8,Nvidia
-Lenovo,Notebook,15.6,4,128GB,No OS,1.85,403.5,0,0,0,1920x1080,Intel,2.0,Intel
-Acer,Notebook,15.6,4,256GB,Windows 10,2.2,682.0,1,0,0,1920x1080,Intel,1.6,Intel
-HP,Notebook,15.6,4,128GB,No OS,1.86,299.0,0,0,0,1366x768,Intel,1.6,Intel
-Asus,Gaming,17.3,16,256GB,Windows 10,2.73,2049.9,0,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Notebook,15.6,6,1TB,Windows 10,2.1,529.0,0,0,0,1920x1080,AMD,2.7,AMD
-Lenovo,Notebook,15.6,12,512GB,Windows 10,2.2,949.0,0,0,0,1920x1080,AMD,3.6,AMD
-Dell,2 in 1 Convertible,15.6,8,256GB,Windows 10,2.3,1094.0,1,0,1,1920x1080,Intel,2.7,Intel
-Asus,Gaming,17.3,32,256GB,Windows 10,3.58,1279.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-Asus,Gaming,17.3,32,512GB,Windows 10,3.8,2799.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-Toshiba,Notebook,15.6,8,256GB,Windows 10,2.2,1119.0,0,0,0,1366x768,Intel,2.3,Intel
-Acer,Notebook,15.6,4,1TB,Windows 10,2.2,530.0,0,0,0,1920x1080,Intel,2.7,Nvidia
-HP,Notebook,15.6,8,1TB,Windows 10,2.04,806.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,4,500GB,Windows 10,1.8,309.0,0,0,0,1366x768,Intel,1.6,Intel
-Lenovo,Notebook,15.6,4,1TB,No OS,2.2,469.0,0,0,0,1920x1080,Intel,2.0,Intel
-Asus,2 in 1 Convertible,13.3,6,1TB,Windows 10,1.5,639.01,0,0,1,1920x1080,Intel,2.5,Intel
-Dell,Workstation,15.6,8,64GB,Windows 10,2.23,1993.0,0,0,0,1920x1080,Intel,3.0,Nvidia
-MSI,Gaming,17.3,8,256GB,Windows 10,2.6,1599.0,0,0,0,1920x1080,Intel,2.6,Nvidia
-Samsung,Ultrabook,13.3,8,256GB,Windows 10,0.81,1499.0,0,0,0,1920x1080,Intel,2.5,Intel
-HP,Gaming,17.3,8,128GB,Windows 10,2.75,1399.0,1,0,0,1920x1080,Intel,2.3,Nvidia
-HP,Notebook,13.3,4,32GB,Chrome OS,1.29,615.0,0,0,0,3200x1800,Intel,1.5,Intel
-Acer,2 in 1 Convertible,11.6,4,32GB,Windows 10,1.25,349.0,1,0,1,1920x1080,Intel,2.0,Intel
-Dell,Notebook,15.6,8,128GB,Windows 10,2.18,713.99,0,0,0,1366x768,Intel,2.5,Intel
-Asus,Notebook,14.0,4,32GB,Windows 10,1.5,278.0,0,0,0,1366x768,Intel,1.1,Intel
-Dell,Gaming,15.6,16,128GB,Windows 10,3.21,2051.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-HP,Notebook,17.3,4,500GB,Windows 10,2.71,439.0,0,0,0,1920x1080,AMD,2.5,AMD
-Asus,Gaming,17.3,16,256GB,Windows 10,3.6,2999.0,0,0,0,1920x1080,Intel,2.9,Nvidia
-Lenovo,Gaming,15.6,8,128GB,No OS,2.4,989.0,1,0,0,1920x1080,Intel,2.5,Nvidia
-Lenovo,Notebook,15.6,8,128GB,Windows 10,2.3,819.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-Apple,Ultrabook,12.0,8,512GB,macOS,0.92,1510.0,1,0,0,2304x1440,Intel,1.3,Intel
-Lenovo,Gaming,17.3,32,512GB,Windows 10,4.6,3240.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-Lenovo,Gaming,15.6,8,128GB,No OS,2.4,809.0,1,0,0,1920x1080,Intel,2.5,Nvidia
-HP,Notebook,13.3,4,128GB,Windows 10,1.49,726.0,1,0,0,1920x1080,Intel,1.6,Intel
-Lenovo,Notebook,14.0,8,256GB,Windows 10,1.7,1474.0,1,0,0,1920x1080,Intel,2.5,Intel
-Acer,Notebook,15.6,4,128GB,Windows 10,2.1,426.0,0,0,0,1366x768,AMD,3.0,AMD
-Dell,Notebook,14.0,8,256GB,Windows 10,1.6,859.0,0,0,0,1920x1080,Intel,2.5,Intel
-HP,Notebook,15.6,8,1TB,Windows 10,2.1,716.0,1,0,0,1920x1080,Intel,2.4,Nvidia
-Dell,Notebook,15.6,8,1TB,Windows 10,2.5,784.0,0,0,0,1366x768,Intel,2.5,AMD
-HP,Notebook,14.0,8,256GB,Windows 10,1.64,1049.26,0,0,0,1920x1080,Intel,2.5,Nvidia
-HP,Notebook,15.6,4,500GB,Windows 10,2.1,330.0,0,0,0,1366x768,AMD,1.5,AMD
-Lenovo,Notebook,15.6,8,2TB,No OS,2.2,549.0,0,0,0,1366x768,Intel,2.5,Nvidia
-Dell,Notebook,15.6,8,256GB,Windows 10,2.0,665.0,0,0,0,1366x768,Intel,2.0,Intel
-HP,2 in 1 Convertible,13.3,8,512GB,Windows 10,1.48,2041.0,0,0,1,2560x1440,Intel,2.6,Intel
-Xiaomi,Ultrabook,13.3,8,256GB,No OS,1.3,999.9,1,0,0,1920x1080,Intel,2.5,Nvidia
-Dell,Notebook,15.6,8,1TB,Linux,2.3,805.99,0,0,0,1366x768,Intel,2.7,AMD
-Asus,Gaming,15.6,8,1TB,Windows 10,2.2,1169.0,0,0,0,1920x1080,Intel,2.6,Nvidia
-Toshiba,Notebook,14.0,4,128GB,Windows 10,1.75,499.0,0,0,0,1366x768,Intel,2.1,Intel
-Lenovo,Notebook,15.6,8,256GB,Windows 10,1.95,1097.0,1,0,0,1920x1080,Intel,2.7,Intel
-Mediacom,2 in 1 Convertible,11.6,4,32GB,Windows 10,1.16,299.0,1,0,1,1920x1080,Intel,1.1,Intel
-Asus,2 in 1 Convertible,15.6,16,512GB,Windows 10,2.3,1799.0,0,1,1,3840x2160,Intel,2.7,Nvidia
-HP,Notebook,15.6,8,256GB,Windows 10,2.31,1427.0,0,0,0,1920x1080,Intel,2.9,Intel
-Dell,Gaming,15.6,8,256GB,Windows 10,2.56,879.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-MSI,Gaming,17.3,16,512GB,Windows 10,4.14,2729.0,0,0,0,1920x1080,Intel,2.9,Nvidia
-Asus,Notebook,14.0,4,32GB,Windows 10,1.63,299.0,0,0,0,1366x768,Intel,1.1,Intel
-MSI,Gaming,17.3,16,256GB,Windows 10,2.43,2449.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Lenovo,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.3,1199.0,1,0,1,3200x1800,Intel,1.8,Intel
-HP,Ultrabook,14.0,8,256GB,Windows 7,1.43,1449.0,0,0,0,1920x1080,Intel,2.6,Intel
-Acer,Notebook,15.6,8,256GB,Linux,2.5,979.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Dell,Notebook,15.6,8,2TB,Windows 10,2.02,759.0,0,0,0,1920x1080,Intel,1.6,AMD
-Razer,Gaming,17.3,32,1TB,Windows 10,3.49,6099.0,0,1,1,3840x2160,Intel,2.9,Nvidia
-HP,Notebook,14.0,8,256GB,Windows 10,2.31,1124.0,0,0,0,1366x768,Intel,2.6,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,2.2,797.41,0,0,0,1920x1080,Intel,1.6,AMD
-Asus,Notebook,15.6,8,256GB,Windows 10,2.0,1299.0,1,1,0,3840x2160,Intel,2.7,Nvidia
-Lenovo,Notebook,15.6,8,128GB,Windows 10,2.6,789.0,1,0,0,1920x1080,Intel,2.3,Nvidia
-Asus,Notebook,17.3,4,1TB,Windows 10,2.8,466.0,0,0,0,1366x768,Intel,1.1,Nvidia
-Dell,Ultrabook,14.0,8,256GB,Linux,1.6,1099.0,0,0,0,1920x1080,Intel,2.8,Intel
-Dell,Notebook,15.6,12,1TB,Windows 10,2.25,649.0,0,0,0,1366x768,Intel,2.5,Intel
-HP,Gaming,17.3,16,256GB,Windows 10,3.35,1379.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Ultrabook,15.6,8,256GB,Windows 10,1.83,699.0,1,0,0,1920x1080,Intel,1.8,Nvidia
-HP,Notebook,17.3,16,512GB,Windows 10,2.5,1271.0,0,0,0,1920x1080,Intel,1.8,Nvidia
-Dell,Notebook,15.6,6,1TB,Windows 10,2.3,459.0,0,0,0,1366x768,Intel,2.4,Intel
-Lenovo,Gaming,15.6,8,256GB,Windows 10,2.5,829.0,1,0,0,1920x1080,Intel,2.5,Nvidia
-Dell,Ultrabook,13.3,8,256GB,Windows 10,1.2,1579.0,0,0,0,1920x1080,Intel,1.8,Intel
-Asus,Ultrabook,13.3,8,512GB,Windows 10,1.2,729.0,1,0,0,1920x1080,Intel,0.9,Intel
-Dell,Notebook,15.6,4,1TB,Linux,2.25,465.62,0,0,0,1366x768,Intel,2.0,AMD
-MSI,Gaming,15.6,16,256GB,Windows 10,2.94,2267.86,0,0,0,1920x1080,Intel,2.8,Nvidia
-Lenovo,Notebook,14.0,4,500GB,Windows 10,2.1,299.0,0,0,0,1366x768,Intel,1.1,Intel
-Dell,Notebook,17.3,16,256GB,Windows 10,2.8,1396.0,0,0,0,1920x1080,Intel,1.8,AMD
-HP,Notebook,15.6,8,2TB,Windows 10,2.04,389.0,0,0,0,1366x768,Intel,1.6,Intel
-Dell,Notebook,15.6,4,1TB,Windows 10,2.18,558.6,0,0,0,1366x768,Intel,2.0,Intel
-Asus,Gaming,17.3,8,1TB,Windows 10,3.0,1039.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Dell,Gaming,15.6,8,128GB,Windows 10,2.62,1159.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Notebook,17.3,8,1TB,Windows 10,2.63,910.0,0,0,0,1600x900,Intel,2.5,Nvidia
-Dell,Notebook,15.6,8,256GB,Windows 10,1.9,1116.99,0,0,0,1920x1080,Intel,2.5,Intel
-Apple,Ultrabook,13.3,8,512GB,macOS,1.37,1958.9,1,0,0,2560x1600,Intel,2.9,Intel
-Dell,2 in 1 Convertible,15.6,16,512GB,Windows 10,2.09,1179.0,0,0,1,1920x1080,Intel,2.7,Intel
-Dell,Notebook,15.6,4,500GB,Windows 10,2.2,443.99,0,0,0,1366x768,Intel,1.6,Intel
-Asus,Notebook,15.6,4,1TB,No OS,2.45,579.0,0,0,0,1366x768,Intel,2.3,Nvidia
-HP,Notebook,17.3,8,1TB,Windows 10,2.5,896.0,0,0,0,1920x1080,Intel,1.6,Nvidia
-MSI,Gaming,14.0,16,256GB,Windows 10,1.6,1891.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-Acer,Notebook,15.6,4,1TB,Windows 10,2.23,616.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-Asus,Notebook,14.0,2,32GB,Windows 10,1.65,199.0,0,0,0,1366x768,AMD,1.5,AMD
-Asus,Gaming,17.3,16,256GB,Windows 10,2.99,1749.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Dell,Notebook,15.6,8,256GB,Windows 10,1.93,1369.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Dell,Notebook,15.6,16,256GB,Windows 10,1.93,1537.39,0,0,0,1920x1080,Intel,2.8,Nvidia
-Dell,Ultrabook,13.3,8,256GB,Windows 10,1.2,1449.0,0,0,0,1920x1080,Intel,1.8,Intel
-Microsoft,Ultrabook,13.5,4,128GB,Windows 10 S,1.252,1089.0,0,0,1,2256x1504,Intel,2.5,Intel
-Acer,Gaming,15.6,8,256GB,Windows 10,2.5,846.0,1,0,0,1920x1080,Intel,2.5,Nvidia
-Asus,2 in 1 Convertible,11.6,4,32GB,Windows 10,1.5,375.0,0,0,1,1366x768,Intel,1.1,Intel
-Dell,Ultrabook,14.0,8,256GB,Windows 10,1.36,1639.0,0,0,0,1920x1080,Intel,2.5,Intel
-HP,Notebook,15.6,4,256GB,Windows 10,2.04,979.0,0,0,0,1366x768,Intel,2.5,Intel
-Lenovo,2 in 1 Convertible,15.6,4,256GB,Windows 10,1.8,847.0,1,0,1,1920x1080,Intel,2.5,Intel
-HP,Workstation,17.3,8,1TB,Windows 7,3.0,2899.0,1,0,0,1920x1080,Intel,2.6,AMD
-Lenovo,Notebook,15.6,32,1TB,Windows 10,2.5,4899.0,1,1,0,3840x2160,Intel,3.1,Nvidia
-MSI,Gaming,15.6,8,1TB,Windows 10,2.2,839.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-HP,Ultrabook,14.0,8,512GB,Windows 7,1.54,1870.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,4,256GB,Windows 10,2.3,639.0,0,0,0,1920x1080,Intel,2.5,AMD
-HP,Notebook,14.0,4,500GB,Windows 10,1.63,722.0,1,0,0,1366x768,Intel,1.6,Intel
-HP,Notebook,15.6,6,256GB,Windows 10,1.91,619.0,0,0,0,1920x1080,Intel,1.6,AMD
-Mediacom,Notebook,13.3,4,32GB,Windows 10,1.2,369.0,1,0,0,1920x1080,Intel,1.1,Intel
-Toshiba,Ultrabook,13.3,16,512GB,Windows 10,1.05,2226.0,0,0,0,1920x1080,Intel,2.7,Intel
-HP,Notebook,15.6,8,128GB,Windows 10,2.2,1099.0,1,0,0,1920x1080,Intel,2.5,Nvidia
-Lenovo,2 in 1 Convertible,13.9,8,256GB,Windows 10,1.38,1079.0,1,0,1,1920x1080,Intel,2.7,Intel
-HP,Notebook,15.6,8,1TB,Windows 10,1.86,639.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,2,500GB,Windows 10,2.2,379.0,0,0,0,1366x768,Intel,1.6,Intel
-Asus,Netbook,11.6,4,16GB,Chrome OS,1.2,287.9,0,0,0,1366x768,Intel,1.6,Intel
-Lenovo,Notebook,15.6,4,1TB,Windows 10,2.4,609.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-HP,Gaming,17.3,12,256GB,Windows 10,3.35,1999.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Asus,Ultrabook,14.0,8,256GB,Windows 10,1.3,1193.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-Lenovo,Notebook,15.6,8,128GB,Windows 10,2.2,589.0,0,0,0,1366x768,Intel,2.0,Intel
-HP,Notebook,17.3,8,256GB,Windows 10,2.63,1080.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-Dell,Notebook,15.6,4,1TB,Windows 10,2.25,559.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Gaming,15.6,8,1TB,Windows 10,2.56,819.0,0,0,0,1920x1080,Intel,2.5,Nvidia
-Dell,Notebook,15.6,4,500GB,Windows 7,2.24,737.0,0,0,0,1366x768,Intel,2.3,Intel
-Lenovo,Notebook,15.6,8,500GB,No OS,2.2,629.0,0,0,0,1366x768,Intel,2.5,Nvidia
-Dell,Notebook,15.6,8,256GB,Linux,2.2,749.01,0,0,0,1920x1080,Intel,2.7,AMD
-Lenovo,2 in 1 Convertible,15.6,8,512GB,Windows 10,2.0,1699.0,1,0,1,1920x1080,Intel,2.8,Nvidia
-Dell,Workstation,15.6,8,256GB,Windows 10,1.78,2712.0,0,1,1,3840x2160,Intel,2.8,Nvidia
-Dell,Notebook,15.6,8,256GB,Linux,2.2,677.35,0,0,0,1920x1080,Intel,1.6,AMD
-Lenovo,Notebook,14.0,8,256GB,Windows 10,1.65,1345.0,0,0,0,1920x1080,Intel,2.5,Intel
-Acer,Notebook,15.6,4,500GB,Windows 10,2.4,387.0,0,0,0,1366x768,AMD,2.2,AMD
-Lenovo,Notebook,15.6,16,1TB,Windows 10,2.5,1099.0,0,0,0,1920x1080,Intel,2.5,AMD
-Acer,Notebook,17.3,8,256GB,Windows 10,3.0,854.0,1,0,0,1920x1080,Intel,1.6,Nvidia
-Lenovo,Notebook,14.0,8,256GB,Windows 10,1.75,1049.0,1,0,0,1920x1080,Intel,1.6,Intel
-HP,2 in 1 Convertible,11.6,8,64GB,Chrome OS,1.4,495.0,0,0,1,1366x768,Intel,1.1,Intel
-Lenovo,Notebook,11.6,2,32GB,Windows 10,1.15,304.45,0,0,0,1366x768,Intel,1.1,Intel
-Lenovo,Notebook,14.0,4,128GB,Windows 10,1.7,599.0,1,0,0,1920x1080,Intel,2.7,Intel
-HP,Notebook,15.6,8,500GB,Windows 10,1.9,1154.0,0,0,0,1920x1080,Intel,2.5,AMD
-MSI,Gaming,17.3,16,256GB,Windows 10,2.7,1492.8,0,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Notebook,17.3,8,256GB,Windows 10,2.5,923.0,0,0,0,1920x1080,Intel,1.6,Nvidia
-Dell,Notebook,15.6,4,500GB,Windows 10,1.95,729.9,0,0,0,1366x768,Intel,2.3,Intel
-Fujitsu,Notebook,15.6,8,1TB,Windows 10,2.2,739.0,0,0,0,1366x768,Intel,2.5,Intel
-Lenovo,2 in 1 Convertible,15.6,4,256GB,Windows 10,2.1,867.0,1,0,1,1920x1080,Intel,2.3,Intel
-Dell,2 in 1 Convertible,15.6,8,256GB,Windows 10,2.67,799.0,0,0,1,1920x1080,Intel,1.6,Intel
-Acer,Notebook,15.6,4,1TB,Windows 10,2.4,384.0,0,0,0,1366x768,Intel,2.4,Intel
-Acer,Notebook,15.6,8,1TB,Linux,2.4,779.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-HP,2 in 1 Convertible,13.3,16,256GB,Windows 10,1.28,1975.0,0,0,1,1920x1080,Intel,2.8,Intel
-HP,Notebook,15.6,4,500GB,Windows 7,1.88,932.0,0,0,0,1366x768,Intel,2.3,Intel
-HP,Notebook,15.6,4,128GB,Windows 10,1.91,439.0,0,0,0,1920x1080,Intel,2.0,Intel
-Lenovo,Notebook,15.6,6,256GB,Windows 10,2.2,597.57,0,0,0,1920x1080,AMD,3.6,AMD
-Lenovo,Gaming,15.6,16,256GB,Windows 10,2.5,1079.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-Lenovo,Notebook,14.0,8,256GB,Windows 10,1.58,1480.0,1,0,0,1920x1080,Intel,2.7,Intel
-Acer,Notebook,17.3,4,256GB,Windows 10,3.0,702.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-Lenovo,Notebook,15.6,4,128GB,Windows 10,2.2,349.0,0,0,0,1366x768,AMD,2.2,AMD
-HP,Notebook,15.6,8,256GB,Windows 10,1.84,1304.0,0,0,0,1920x1080,Intel,2.7,Intel
-Dell,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.68,889.0,0,0,1,1920x1080,Intel,2.5,Intel
-Lenovo,Notebook,15.6,8,512GB,Windows 10,1.99,1729.0,1,0,0,1920x1080,Intel,2.7,Intel
-Lenovo,Notebook,15.6,8,256GB,Windows 10,2.3,1349.0,0,0,0,1920x1080,Intel,2.3,Intel
-Lenovo,Notebook,15.6,4,256GB,No OS,2.2,444.0,0,0,0,1920x1080,Intel,2.0,Intel
-Asus,Gaming,17.3,24,256GB,Windows 10,4.33,1269.0,1,0,1,1920x1080,Intel,2.6,Nvidia
-Toshiba,Notebook,14.0,8,256GB,Windows 10,1.47,1490.0,1,0,0,1920x1080,Intel,2.3,Intel
-Asus,Ultrabook,14.0,8,512GB,Windows 10,1.1,1873.0,0,0,0,1920x1080,Intel,2.7,Intel
-Dell,Notebook,14.0,4,500GB,Windows 10,1.6,875.0,0,0,0,1366x768,Intel,2.5,Intel
-HP,2 in 1 Convertible,13.3,8,256GB,Windows 10,1.58,836.6,1,0,1,1366x768,Intel,2.5,Intel
-HP,Ultrabook,12.5,8,256GB,Windows 10,1.26,1349.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,2.0,1142.75,0,0,0,1920x1080,Intel,1.6,Nvidia
-Acer,Notebook,15.6,4,500GB,Windows 10,2.4,450.0,0,0,0,1366x768,Intel,2.0,Intel
-Lenovo,Notebook,14.0,8,180GB,Windows 10,1.7,1364.0,0,0,0,1920x1080,Intel,2.5,Intel
-Acer,Notebook,15.6,6,1TB,Windows 10,2.1,409.0,0,0,0,1366x768,AMD,3.0,AMD
-Asus,Notebook,15.6,16,128GB,Windows 10,2.2,1749.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-HP,Ultrabook,14.0,8,512GB,Windows 10,1.54,1468.0,0,0,0,1920x1080,Intel,2.5,Intel
-Dell,Notebook,15.6,8,256GB,Windows 10,2.18,750.0,0,0,0,1920x1080,Intel,2.5,Intel
-HP,Ultrabook,15.6,8,256GB,Windows 10,1.84,1296.99,0,0,0,1920x1080,Intel,2.5,AMD
-HP,Ultrabook,12.5,4,500GB,Windows 10,1.26,1579.0,0,0,0,1920x1080,Intel,2.3,Intel
-Dell,Notebook,13.3,8,1TB,Windows 10,1.62,649.0,0,0,1,1920x1080,Intel,2.3,Intel
-Fujitsu,Notebook,15.6,4,256GB,Windows 10,2.3,649.0,0,0,0,1366x768,Intel,2.3,Intel
-HP,Notebook,15.6,4,500GB,Windows 10,2.07,910.0,0,0,0,1920x1080,Intel,2.3,Intel
-Dell,Notebook,15.6,16,512GB,Windows 10,1.93,1426.66,0,0,0,1920x1080,Intel,2.6,Intel
-HP,2 in 1 Convertible,15.6,4,500GB,Windows 10,2.3,684.8,0,0,1,1366x768,Intel,2.5,Intel
-Huawei,Ultrabook,13.0,8,256GB,Windows 10,1.05,1349.0,1,0,0,2160x1440,Intel,2.5,Intel
-MSI,Gaming,17.3,16,256GB,Windows 10,3.78,2499.0,0,0,0,1920x1080,Intel,2.8,Nvidia
-Acer,Gaming,17.3,16,128GB,Windows 10,4.2,1935.0,1,0,0,1920x1080,Intel,2.6,Nvidia
-Dell,Workstation,15.6,16,256GB,Windows 10,2.17,1975.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-HP,Notebook,14.0,8,1TB,Windows 10,1.48,1749.0,0,0,0,1920x1080,Intel,2.8,Intel
-Dell,Notebook,15.6,4,1TB,Linux,2.25,359.0,0,0,0,1366x768,Intel,2.0,Intel
-Lenovo,Notebook,15.6,8,256GB,Windows 10,2.2,597.0,0,0,0,1366x768,Intel,2.5,Intel
-Lenovo,Notebook,15.6,4,1TB,No OS,1.9,339.0,0,0,0,1366x768,Intel,2.0,Intel
-Lenovo,Notebook,14.0,8,256GB,Windows 10,1.8,1191.0,0,0,0,1920x1080,Intel,2.3,Intel
-Acer,Notebook,17.3,4,1TB,Windows 10,3.0,655.0,1,0,0,1920x1080,Intel,2.7,Nvidia
-HP,Notebook,15.6,4,1TB,Windows 10,1.96,500.0,0,0,0,1366x768,Intel,1.6,Intel
-Dell,Gaming,15.6,16,512GB,Windows 10,2.62,1679.0,0,1,0,3840x2160,Intel,2.8,Nvidia
-Lenovo,Gaming,15.6,8,128GB,Windows 10,2.5,1189.0,1,0,0,1920x1080,Intel,2.8,Nvidia
-Acer,Notebook,14.0,8,256GB,Windows 10,1.56,902.0,1,0,0,1920x1080,Intel,2.5,Intel
-Acer,Notebook,15.6,4,500GB,Linux,2.4,289.0,0,0,0,1366x768,Intel,1.6,Intel
-Dell,Notebook,15.6,16,512GB,Windows 10,2.06,2027.42,0,1,1,3840x2160,Intel,2.8,Nvidia
-Dell,2 in 1 Convertible,13.3,12,256GB,Windows 10,1.6,1299.0,1,0,1,1920x1080,Intel,2.7,Intel
-HP,Notebook,17.3,8,256GB,Windows 10,2.5,1045.0,0,0,0,1920x1080,Intel,1.8,Nvidia
-Dell,Workstation,17.3,16,256GB,Windows 10,3.42,2884.86,0,0,0,1920x1080,Intel,2.9,Nvidia
-Lenovo,Ultrabook,14.0,8,512GB,Windows 10,1.7,1943.0,1,0,0,2560x1440,Intel,2.8,Nvidia
-Lenovo,Gaming,15.6,8,128GB,Windows 10,2.5,1249.0,1,0,0,1920x1080,Intel,2.8,Nvidia
+price,type,os,Ghz,Cpu,Ssd,graphics,ts_info,resolution,memory/ram,Brand,graphics_quality
+1559.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+775.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
+2169.16,Content Creation,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,3840x2160,16,MSI,High
+1579.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+3598.99,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,ASUS,Very High
+1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1649.0,Gaming,Windows 11,3.2,Ryzen 7,1000,AMD Radeon RX Graphics,0,1920x1080,32,MSI,Low
+2097.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
+1069.79,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+1719.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+1269.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+1049.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,8,MSI,Fair
+2414.99,Content Creation,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+1179.99,Everyday Value,Windows 10,1.3,Intel Core i7,2000,Intel Iris Graphics,0,,24,ASUS,Fair
+1059.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+1269.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,Fair
+2929.64,Content Creation,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3060,1,3840x2160,32,ASUS,High
+1659.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+1789.0,Gaming,Windows 11,2.3,Intel Core i7,4000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+999.0,Home / Personal,Windows 10,2.5,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
+1329.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+599.0,Home / Personal,Windows 11,2.3,Ryzen 5,512,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
+1949.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
+1349.0,Home / Personal,Windows 11,3.3,Ryzen 5,4000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Lenovo,Fair
+1469.99,Work / Business,Windows 11,1.6,Intel Core i5,4000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
+417.19,Home / Personal,Windows 10,3.0,Intel Core i3,256,Intel UHD Graphics,0,1920x1080,8,HP,Low
+1929.0,Gaming,Windows 11,2.1,Intel Core i5,512,NVIDIA GeForce RTX 4060,0,1920x1080,16,MSI,High
+1599.99,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
+1165.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 4050,0,1920x1080,16,MSI,Fair
+2539.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
+873.11,Home / Personal,Windows 11,1.3,Intel Core i3,256,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
+969.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
+839.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
+1449.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+2119.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,1920x1080,64,MSI,High
+1076.84,Work / Business,Windows 10,1.7,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+649.99,Home / Personal,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+1979.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3070,0,1920x1080,16,MSI,High
+1285.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+1699.0,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+949.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2736x1824,16,Microsoft,Low
+999.0,Content Creation,Windows 10,3.0,Intel Core i7,256,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
+1499.0,Home / Personal,Windows 11,1.3,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,16,Lenovo,Fair
+1799.0,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,2560x1440,32,MSI,High
+899.99,Work / Business,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
+749.0,Gaming,Windows 10,3.0,Intel Core i3,512,Intel UHD Graphics,0,1366x768,12,Lenovo,Low
+1549.0,Gaming,Windows 11,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,ASUS,High
+1039.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,HP,High
+1559.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1169.99,Work / Business,Windows 11,1.6,Intel Core i5,2000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
+1389.0,Work / Business,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
+1199.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+659.0,Gaming,Windows 10,2.5,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
+599.99,Content Creation,Windows 11,2.4,Intel Core i5,256,Intel Iris Graphics,1,1536x1024,8,Microsoft,Fair
+1499.99,Versatile,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
+1899.99,Versatile,Windows 11,3.1,Intel Core i5,512,Intel Iris Graphics,1,,16,Microsoft,Fair
+629.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2736x1824,8,Microsoft,Low
+799.0,Gaming,Windows 11,3.3,Ryzen 5,512,NVIDIA GeForce RTX 4050,0,1920x1080,8,MSI,Fair
+722.81,Versatile,Windows 11,1.7,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,MSI,Fair
+2399.99,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4060,0,2880x1800,32,ASUS,High
+1748.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3080,0,1920x1080,16,MSI,High
+273.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,0,1920x1080,16,Lenovo,Low
+1639.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+1696.95,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4050,0,2560x1600,16,MSI,Fair
+1609.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,40,ASUS,Fair
+2099.0,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+1238.3,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+2199.97,Content Creation,Windows 10,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3060,1,2560x1600,32,MSI,High
+2319.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+2129.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+1499.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 4060,0,1920x1080,32,MSI,High
+2499.99,Gaming,Windows 11,2.5,Intel Core i7,1000,NVIDIA GeForce RTX 4060,0,2560x1440,16,Razer,High
+999.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
+1049.99,Home / Personal,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,24,Lenovo,Fair
+3799.0,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,MSI,Very High
+1059.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,16,Acer,Fair
+1139.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+3349.0,Gaming,Windows 11,2.5,Ryzen 9,2000,NVIDIA GeForce RTX 4080,0,2560x1440,64,ASUS,Very High
+861.0,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
+939.99,Home / Personal,Windows 11,3.3,Ryzen 9,1000,AMD Radeon 680M,0,1920x1080,16,ASUS,Fair
+1659.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+1799.99,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA T600,0,1920x1080,32,Lenovo,Fair
+2049.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,32,Lenovo,High
+2107.29,Work / Business,Windows 11,2.4,Intel Core i7,2000,NVIDIA GeForce RTX 4060,0,2560x1600,32,MSI,High
+2369.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
+1249.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+699.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,16,Dell,Fair
+599.0,Home / Personal,Windows 10,1.3,Intel Core i3,128,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
+634.49,Work / Business,Windows 11,2.4,Intel Core i5,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
+5299.0,Gaming,Windows 11,2.2,Intel Core i9,4000,NVIDIA GeForce RTX 4090,0,3840x2160,128,MSI,Very High
+1599.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
+1399.99,Gaming,Windows 11,3.8,Ryzen 7,512,NVIDIA GeForce RTX 4060,0,1920x1200,16,Acer,High
+1849.99,Work / Business,Windows 10,2.6,Intel Core i7,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,Lenovo,Fair
+688.79,Home / Personal,Windows 10,1.0,Intel Core i5,512,Intel UHD Graphics,1,1920x1080,32,Dell,Low
+1229.0,Gaming,Windows 11,2.5,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+2119.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+979.0,Gaming,Windows 10,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
+829.99,Work / Business,Windows 11,2.6,Intel Core i5,512,Intel Iris Graphics,0,,16,Dell,Fair
+629.99,Home / Personal,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2560x1600,16,Lenovo,Fair
+388.0,Everyday Value,Windows 10,1.1,Intel Core i3,64,Intel UHD Graphics,1,1920x1280,4,Microsoft,Low
+666.79,Gaming,Windows 10,2.4,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
+1459.0,Work / Business,Windows 11,1.3,Intel Core i7,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
+1399.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+2109.0,Gaming,Windows 10,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
+1149.99,Home / Personal,Windows 11,1.8,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,8,Acer,Low
+899.99,Home / Personal,Windows 10,1.8,Ryzen 7,512,AMD Radeon Graphics,0,1920x1080,8,ASUS,Fair
+969.99,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High
+1429.0,Gaming,Windows 10,3.33,Ryzen 5,2000,NVIDIA GeForce GTX 1650,0,1920x1200,32,Lenovo,Fair
+2008.84,Work / Business,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,3300x2200,16,ASUS,Fair
+1199.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,32,Acer,Fair
+1199.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+1299.99,Everyday Value,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,16,Lenovo,Fair
+2001.49,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,1920x1080,32,MSI,High
+593.79,Home / Personal,Windows 11,3.0,Intel Core i3,1000,Intel UHD Graphics,0,1920x1080,32,Dell,Low
+1199.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,HP,High
+2247.02,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+629.79,Home / Personal,Windows 11,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,8,Dell,Fair
+1559.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+1069.99,Work / Business,Windows 11,1.7,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+1469.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+1199.0,Gaming,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,Fair
+1249.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,2880x1620,16,ASUS,High
+895.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
+1999.99,Versatile,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,1,3840x2160,32,ASUS,High
+1359.0,Gaming,Windows 10,2.4,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,32,HP,Fair
+1409.75,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,MSI,Fair
+1000.41,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
+1729.0,Gaming,Windows 10,2.3,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,64,ASUS,Fair
+3099.0,Versatile,Windows 11,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+1059.99,Work / Business,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
+1499.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
+879.0,Home / Personal,Windows 10,2.4,Intel Core i5,256,Intel Iris Graphics,1,2736x1824,8,Microsoft,Fair
+1099.99,Content Creation,Windows 11,3.3,Ryzen 9,1000,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,Fair
+1657.22,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 4070,0,1920x1080,16,MSI,High
+1456.99,Versatile,Windows 11,2.6,Intel Core i5,256,Intel Iris Graphics,1,2880x1920,16,Microsoft,Fair
+1969.0,Gaming,Windows 10,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,ASUS,High
+1249.0,Home / Personal,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
+1199.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1200,16,MSI,Fair
+2384.0,Versatile,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+2549.53,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
+913.99,Versatile,Windows 11,2.0,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+649.0,Home / Personal,Windows 10,1.2,Intel Core i5,128,Intel Iris Graphics,1,2496x1664,8,Microsoft,Fair
+2599.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
+878.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,ASUS,Fair
+1469.0,Home / Personal,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+3299.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4090,0,2560x1600,32,Lenovo,Very High
+977.99,Home / Personal,Windows 10,2.7,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+1029.0,Home / Personal,Windows 11,2.3,Ryzen 5,2000,AMD Radeon Graphics,0,1920x1080,32,Lenovo,Fair
+897.47,Gaming,Windows 10,2.5,Intel Core i5,256,GeForce GTX 1050 Ti,0,1920x1080,8,Acer,Low
+2249.0,Gaming,Windows 10,2.9,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,64,ASUS,High
+999.0,Work / Business,Windows 11,2.9,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
+3799.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4080,0,2560x1600,32,Razer,Very High
+2097.99,Content Creation,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,3840x2400,16,ASUS,High
+1859.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
+1149.99,Home / Personal,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
+1559.99,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3070,0,2560x1440,64,Acer,High
+1589.0,Gaming,Windows 10,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
+667.79,Home / Personal,Windows 10,1.0,Intel Core i5,1000,Intel UHD Graphics,1,1920x1080,8,Dell,Low
+2059.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+1289.99,Home / Personal,Windows 11,2.0,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,32,Dell,Low
+1399.0,Work / Business,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,64,Dell,Fair
+2255.48,Versatile,Windows 11,2.6,Intel Core i9,2000,NVIDIA GeForce RTX 4050,0,2560x1600,64,MSI,Fair
+1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1759.0,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High

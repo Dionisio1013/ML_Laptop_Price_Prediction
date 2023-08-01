@@ -25,17 +25,10 @@ def predict_datapoint():
       return render_template('home.html')
     else:
        data = CustomData(
-        TypeName=request.form.get('Typename'),
-        Company=request.form.get('Company'),
-        OpSys=request.form.get('Opsys'),
         Ram=int(request.form.get('Ram')),
-        Memory=request.form.get('Memory'),
+        Ssd=int(request.form.get('Ssd')),
         Ghz=float(request.form.get('Ghz')),
-        Touchscreen=bool(request.form.get('Touchscreen')),
-        IPS=bool(request.form.get('IPS')),
-        is_4K=bool(request.form.get('is_4K')),
-        Processor=request.form.get('Processor'),
-        Gpu_Brand=request.form.get('Gpu_Brand'),
+        Graphics=request.form.get('Graphics'),
         Resolution=request.form.get('Resolution')
        )
        pred_df = data.get_data_as_data_frame()

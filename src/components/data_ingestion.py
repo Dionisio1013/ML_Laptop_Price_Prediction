@@ -9,8 +9,8 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from dataclasses import dataclass
 
-from src.components.data_transformation import DataTransformation
-from src.components.data_transformation import DataTransformationConfig
+from src.components.data_transformation_egg import DataTransformation
+from src.components.data_transformation_egg import DataTransformationConfig
 
 from src.components.model_trainer import ModelTrainerConfig
 from src.components.model_trainer import ModelTrainer
@@ -36,23 +36,25 @@ class DataIngestion:
         logging.info("Entered the data ingestion method or component")
         try:
             # Read the dataset
-            df = pd.read_csv('notebook/Laptop.csv', encoding='latin1')
+            df = pd.read_csv('notebook/newegg.csv')
             logging.info('Read the dataset as dataframe')
 
+            
+            graphics_order = df.groupby('graphics_quality')['price'].mean().sort_values(ascending = True).index
 
-            # Feature Engineering
-            print(df['Memory'].unique())
-            df['Memory'] = df['Memory'].replace('1.0TB', '1TB')
-            print(df['Memory'].unique())
-            memory_ordered = ['8GB', '16GB', '32GB', '64GB', '128GB', '180GB', '240GB', '256GB', '500GB', '508GB', '512GB', '1TB', '2TB']
-            print(pd.Categorical(df['Memory'], categories = memory_ordered, ordered = True))
-            df['Memory'] = pd.Categorical(df['Memory'], categories = memory_ordered, ordered = True)
-
-            resolution_ordered = ['1366x768', '1440x900', '1600x900', '1920x1080', '1920x1200', '2160x1440', '2256x1504', '2304x1440', '2400x1600', '2560x1440', '2560x1600', '2736x1824', '2880x1800', '3200x1800', '3840x2160']
-            print(pd.Categorical(df['Resolution'], categories=resolution_ordered, ordered = True))
+            df['graphics_quality'] = pd.Categorical(df['graphics_quality'], categories = graphics_order)
+            
             # This code is basically telling the computer that there is an order between these cateogrical variables 
             # making them ordinal
-            df['Resolution'] = pd.Categorical(df['Resolution'], categories=resolution_ordered, ordered = True)
+
+            resolution_ordered = ['1366x768', '1536x1024', '1920x1028', '1920x1080', '1920x1200', 
+                       '1920x1280', '2240x1400', '2256x1504', '2260x1400', '2496x1664', 
+                       '2560x1440', '2560x1600', '2736x1824', '2800x1620', '2880x1800', 
+                       '2880x1920', '2880x1620', '3000x2000', '3072x1920', '3200x2000', 
+                       '3240x2160', '3300x2200', '3840x2160', '3840x2400']
+            print(pd.Categorical(df['resolution'], categories=resolution_ordered, ordered = True))
+
+            df['resolution'] = pd.Categorical(df['resolution'], categories=resolution_ordered, ordered = True)
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
 

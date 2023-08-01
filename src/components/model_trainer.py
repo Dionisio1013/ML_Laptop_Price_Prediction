@@ -34,8 +34,9 @@ class ModelTrainer:
                 test_array[:,-1]
             )
             models = {
-               # "Linear Regression": LinearRegression(),
-                "Lasso": Lasso()
+                "Linear Regression": LinearRegression(),
+                "Lasso": Lasso(),
+                "xgboost": XGBRegressor()
             }
             model_report:dict=evaluate_models(X_train=X_train, y_train=y_train, X_test = X_test, y_test = y_test, models=models)
 
