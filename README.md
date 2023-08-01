@@ -1,1 +1,1 @@
-## Laptop Price Prediction ML Project
+# LaptopPricePredictor
