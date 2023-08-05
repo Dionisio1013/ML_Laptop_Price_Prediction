@@ -24,23 +24,6 @@ class DataTransformationConfig:
 #     def __init__(self):
         
 
-class FrequencyEncoder(TransformerMixin):
-    # Creating an empty dictionary for the categorical variable columns
-    def __init__(self):
-        self.frequency_map = {}
-        #self.columns = 
-    
-    def fit(self, X):
-        for col in self.columns:
-            self.frequency_map[col] = X[col].value_counts(normalize=True).to_dict()
-        return self
-
-    def transform(self, X):
-        X_encoded = X.copy()
-        for col in self.columns:
-            X_encoded[col] = X_encoded[col].map(self.freq_mapping[col])
-        return X_encoded
-
 
 class DataTransformation:
     def __init__(self):
