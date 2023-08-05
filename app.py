@@ -37,8 +37,7 @@ def predict_datapoint():
        predict_pipeline = PredictPipeline()
        results = predict_pipeline.predict(pred_df)
     return render_template('home.html', results = results[0])
-
-
+# Goodbye yellow brick road
 app.config['DEBUG'] = True
 #Test
 if __name__ == '__main__':
