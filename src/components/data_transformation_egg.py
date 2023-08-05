@@ -6,8 +6,7 @@ import pandas as pd
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
-from sklearn.preprocessing import StandardScaler, LabelEncoder, OneHotEncoder, OrdinalEncoder
-from sklearn.base import TransformerMixin
+from sklearn.preprocessing import StandardScaler, OrdinalEncoder
 from src.exception import CustomException
 from src.logger import logging
 from scipy import sparse
@@ -18,11 +17,6 @@ from src.utils import save_object
 @dataclass
 class DataTransformationConfig:
     preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pk1")
-
-
-# class OrdinalEncoder:
-#     def __init__(self):
-        
 
 
 class DataTransformation:
@@ -45,13 +39,6 @@ class DataTransformation:
                 ]
             )
 
-            # cat_frequency_pipeline=Pipeline(
-            #     steps=[
-            #     ("imputer",SimpleImputer(strategy="most_frequent")),
-            #     ("label_encoder", OneHotEncoder(handle_unknown = 'ignore'))
-            #     ]
-            # )
-
             cat_ordinal_encode_pipeline=Pipeline(
                 steps=[
                 ("imputer",SimpleImputer(strategy="most_frequent")),
@@ -66,7 +53,6 @@ class DataTransformation:
             preprocessor=ColumnTransformer(
                 [
                 ("num_pipeline",num_pipeline,numerical_columns)
-                # ,("cat_frequency_pipeline",cat_frequency_pipeline,categorical_frequency_columns)
                 ,("cat_ordinal_encode_pipeline",cat_ordinal_encode_pipeline,categorical_ordinal_encoding_columns)
                 ]
             )

@@ -14,6 +14,7 @@ class PredictPipeline:
             preprocessor_path = 'artifacts/preprocessor.pk1'
             model=load_object(file_path=model_path)
             preprocessor=load_object(file_path=preprocessor_path)
+            print("ayo fucker ",preprocessor)
             data_scaled=preprocessor.transform(features)
             preds = model.predict(data_scaled)
             return preds
