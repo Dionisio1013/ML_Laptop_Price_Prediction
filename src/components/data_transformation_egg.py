@@ -4,7 +4,7 @@ from dataclasses import dataclass
 import numpy as np 
 import pandas as pd
 from sklearn.compose import ColumnTransformer
-from sklearn.impute import SimpleImputer
+#from sklearn.impute import SimpleImputer
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder
 from src.exception import CustomException
@@ -34,14 +34,14 @@ class DataTransformation:
 
             num_pipeline= Pipeline(
                 steps=[
-                ("imputer",SimpleImputer(strategy="median")),
+             #   ("imputer",SimpleImputer(strategy="median")),
                 ("scaler",StandardScaler())
                 ]
             )
 
             cat_ordinal_encode_pipeline=Pipeline(
                 steps=[
-                ("imputer",SimpleImputer(strategy="most_frequent")),
+              #  ("imputer",SimpleImputer(strategy="most_frequent")),
                 ("ordinal_encoder", OrdinalEncoder(handle_unknown = 'use_encoded_value', unknown_value=-1))
                 ]
             )
