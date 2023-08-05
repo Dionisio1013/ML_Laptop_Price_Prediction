@@ -1,0 +1,165 @@
+price,type,os,Ghz,Cpu,Ssd,graphics,ts_info,resolution,memory/ram,Brand,graphics_quality
+1559.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+775.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
+2169.16,Content Creation,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,3840x2160,16,MSI,High
+1579.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+3598.99,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,ASUS,Very High
+1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1649.0,Gaming,Windows 11,3.2,Ryzen 7,1000,AMD Radeon RX Graphics,0,1920x1080,32,MSI,Low
+2097.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
+1069.79,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+1719.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+1269.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+1049.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,8,MSI,Fair
+2414.99,Content Creation,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+1179.99,Everyday Value,Windows 10,1.3,Intel Core i7,2000,Intel Iris Graphics,0,,24,ASUS,Fair
+1059.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+1269.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,Fair
+2929.64,Content Creation,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3060,1,3840x2160,32,ASUS,High
+1659.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+1789.0,Gaming,Windows 11,2.3,Intel Core i7,4000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+999.0,Home / Personal,Windows 10,2.5,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
+1329.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+599.0,Home / Personal,Windows 11,2.3,Ryzen 5,512,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
+1949.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
+1349.0,Home / Personal,Windows 11,3.3,Ryzen 5,4000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Lenovo,Fair
+1469.99,Work / Business,Windows 11,1.6,Intel Core i5,4000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
+417.19,Home / Personal,Windows 10,3.0,Intel Core i3,256,Intel UHD Graphics,0,1920x1080,8,HP,Low
+1929.0,Gaming,Windows 11,2.1,Intel Core i5,512,NVIDIA GeForce RTX 4060,0,1920x1080,16,MSI,High
+1599.99,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
+1165.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 4050,0,1920x1080,16,MSI,Fair
+2539.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
+873.11,Home / Personal,Windows 11,1.3,Intel Core i3,256,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
+969.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
+839.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
+1449.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+2119.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,1920x1080,64,MSI,High
+1076.84,Work / Business,Windows 10,1.7,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+649.99,Home / Personal,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+1979.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3070,0,1920x1080,16,MSI,High
+1285.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+1699.0,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+949.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2736x1824,16,Microsoft,Low
+999.0,Content Creation,Windows 10,3.0,Intel Core i7,256,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
+1499.0,Home / Personal,Windows 11,1.3,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,16,Lenovo,Fair
+1799.0,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,2560x1440,32,MSI,High
+899.99,Work / Business,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
+749.0,Gaming,Windows 10,3.0,Intel Core i3,512,Intel UHD Graphics,0,1366x768,12,Lenovo,Low
+1549.0,Gaming,Windows 11,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,ASUS,High
+1039.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,HP,High
+1559.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1169.99,Work / Business,Windows 11,1.6,Intel Core i5,2000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
+1389.0,Work / Business,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
+1199.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+659.0,Gaming,Windows 10,2.5,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
+599.99,Content Creation,Windows 11,2.4,Intel Core i5,256,Intel Iris Graphics,1,1536x1024,8,Microsoft,Fair
+1499.99,Versatile,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
+1899.99,Versatile,Windows 11,3.1,Intel Core i5,512,Intel Iris Graphics,1,,16,Microsoft,Fair
+629.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2736x1824,8,Microsoft,Low
+799.0,Gaming,Windows 11,3.3,Ryzen 5,512,NVIDIA GeForce RTX 4050,0,1920x1080,8,MSI,Fair
+722.81,Versatile,Windows 11,1.7,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,MSI,Fair
+2399.99,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4060,0,2880x1800,32,ASUS,High
+1748.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3080,0,1920x1080,16,MSI,High
+273.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,0,1920x1080,16,Lenovo,Low
+1639.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
+1696.95,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4050,0,2560x1600,16,MSI,Fair
+1609.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,40,ASUS,Fair
+2099.0,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+1238.3,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+2199.97,Content Creation,Windows 10,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3060,1,2560x1600,32,MSI,High
+2319.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
+2129.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+1499.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 4060,0,1920x1080,32,MSI,High
+2499.99,Gaming,Windows 11,2.5,Intel Core i7,1000,NVIDIA GeForce RTX 4060,0,2560x1440,16,Razer,High
+999.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
+1049.99,Home / Personal,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,24,Lenovo,Fair
+3799.0,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,MSI,Very High
+1059.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,16,Acer,Fair
+1139.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+3349.0,Gaming,Windows 11,2.5,Ryzen 9,2000,NVIDIA GeForce RTX 4080,0,2560x1440,64,ASUS,Very High
+861.0,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
+939.99,Home / Personal,Windows 11,3.3,Ryzen 9,1000,AMD Radeon 680M,0,1920x1080,16,ASUS,Fair
+1659.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+1799.99,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA T600,0,1920x1080,32,Lenovo,Fair
+2049.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,32,Lenovo,High
+2107.29,Work / Business,Windows 11,2.4,Intel Core i7,2000,NVIDIA GeForce RTX 4060,0,2560x1600,32,MSI,High
+2369.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
+1249.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+699.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,16,Dell,Fair
+599.0,Home / Personal,Windows 10,1.3,Intel Core i3,128,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
+634.49,Work / Business,Windows 11,2.4,Intel Core i5,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
+5299.0,Gaming,Windows 11,2.2,Intel Core i9,4000,NVIDIA GeForce RTX 4090,0,3840x2160,128,MSI,Very High
+1599.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
+1399.99,Gaming,Windows 11,3.8,Ryzen 7,512,NVIDIA GeForce RTX 4060,0,1920x1200,16,Acer,High
+1849.99,Work / Business,Windows 10,2.6,Intel Core i7,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,Lenovo,Fair
+688.79,Home / Personal,Windows 10,1.0,Intel Core i5,512,Intel UHD Graphics,1,1920x1080,32,Dell,Low
+1229.0,Gaming,Windows 11,2.5,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+2119.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+979.0,Gaming,Windows 10,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
+829.99,Work / Business,Windows 11,2.6,Intel Core i5,512,Intel Iris Graphics,0,,16,Dell,Fair
+629.99,Home / Personal,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2560x1600,16,Lenovo,Fair
+388.0,Everyday Value,Windows 10,1.1,Intel Core i3,64,Intel UHD Graphics,1,1920x1280,4,Microsoft,Low
+666.79,Gaming,Windows 10,2.4,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
+1459.0,Work / Business,Windows 11,1.3,Intel Core i7,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
+1399.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
+2109.0,Gaming,Windows 10,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
+1149.99,Home / Personal,Windows 11,1.8,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,8,Acer,Low
+899.99,Home / Personal,Windows 10,1.8,Ryzen 7,512,AMD Radeon Graphics,0,1920x1080,8,ASUS,Fair
+969.99,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High
+1429.0,Gaming,Windows 10,3.33,Ryzen 5,2000,NVIDIA GeForce GTX 1650,0,1920x1200,32,Lenovo,Fair
+2008.84,Work / Business,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,3300x2200,16,ASUS,Fair
+1199.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,32,Acer,Fair
+1199.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+1299.99,Everyday Value,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,16,Lenovo,Fair
+2001.49,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,1920x1080,32,MSI,High
+593.79,Home / Personal,Windows 11,3.0,Intel Core i3,1000,Intel UHD Graphics,0,1920x1080,32,Dell,Low
+1199.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,HP,High
+2247.02,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+629.79,Home / Personal,Windows 11,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,8,Dell,Fair
+1559.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
+1069.99,Work / Business,Windows 11,1.7,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
+1469.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+1199.0,Gaming,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,Fair
+1249.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,2880x1620,16,ASUS,High
+895.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
+1999.99,Versatile,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,1,3840x2160,32,ASUS,High
+1359.0,Gaming,Windows 10,2.4,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,32,HP,Fair
+1409.75,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,MSI,Fair
+1000.41,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
+1729.0,Gaming,Windows 10,2.3,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,64,ASUS,Fair
+3099.0,Versatile,Windows 11,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
+1059.99,Work / Business,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
+1499.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
+879.0,Home / Personal,Windows 10,2.4,Intel Core i5,256,Intel Iris Graphics,1,2736x1824,8,Microsoft,Fair
+1099.99,Content Creation,Windows 11,3.3,Ryzen 9,1000,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,Fair
+1657.22,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 4070,0,1920x1080,16,MSI,High
+1456.99,Versatile,Windows 11,2.6,Intel Core i5,256,Intel Iris Graphics,1,2880x1920,16,Microsoft,Fair
+1969.0,Gaming,Windows 10,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,ASUS,High
+1249.0,Home / Personal,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
+1199.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1200,16,MSI,Fair
+2384.0,Versatile,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+2549.53,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
+913.99,Versatile,Windows 11,2.0,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
+649.0,Home / Personal,Windows 10,1.2,Intel Core i5,128,Intel Iris Graphics,1,2496x1664,8,Microsoft,Fair
+2599.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
+878.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,ASUS,Fair
+1469.0,Home / Personal,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
+3299.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4090,0,2560x1600,32,Lenovo,Very High
+977.99,Home / Personal,Windows 10,2.7,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
+1029.0,Home / Personal,Windows 11,2.3,Ryzen 5,2000,AMD Radeon Graphics,0,1920x1080,32,Lenovo,Fair
+897.47,Gaming,Windows 10,2.5,Intel Core i5,256,GeForce GTX 1050 Ti,0,1920x1080,8,Acer,Low
+2249.0,Gaming,Windows 10,2.9,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,64,ASUS,High
+999.0,Work / Business,Windows 11,2.9,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
+3799.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4080,0,2560x1600,32,Razer,Very High
+2097.99,Content Creation,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,3840x2400,16,ASUS,High
+1859.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
+1149.99,Home / Personal,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
+1559.99,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3070,0,2560x1440,64,Acer,High
+1589.0,Gaming,Windows 10,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
+667.79,Home / Personal,Windows 10,1.0,Intel Core i5,1000,Intel UHD Graphics,1,1920x1080,8,Dell,Low
+2059.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
+1289.99,Home / Personal,Windows 11,2.0,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,32,Dell,Low
+1399.0,Work / Business,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,64,Dell,Fair
+2255.48,Versatile,Windows 11,2.6,Intel Core i9,2000,NVIDIA GeForce RTX 4050,0,2560x1600,64,MSI,Fair
+1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
+1759.0,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High
