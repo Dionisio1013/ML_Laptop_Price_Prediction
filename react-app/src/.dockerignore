@@ -1,0 +1,2 @@
+# docker will ignore this folder when making the image
+node_modules
