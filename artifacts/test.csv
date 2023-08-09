@@ -1,165 +1,184 @@
-price,type,os,Ghz,Cpu,Ssd,graphics,ts_info,resolution,memory/ram,Brand,graphics_quality
-1559.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
-775.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
-2169.16,Content Creation,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,3840x2160,16,MSI,High
-1579.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
-3598.99,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,ASUS,Very High
-1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
-1649.0,Gaming,Windows 11,3.2,Ryzen 7,1000,AMD Radeon RX Graphics,0,1920x1080,32,MSI,Low
-2097.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
-1069.79,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-1719.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
-1269.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
-1049.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,8,MSI,Fair
-2414.99,Content Creation,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
-1179.99,Everyday Value,Windows 10,1.3,Intel Core i7,2000,Intel Iris Graphics,0,,24,ASUS,Fair
-1059.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
-1269.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,Fair
-2929.64,Content Creation,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3060,1,3840x2160,32,ASUS,High
-1659.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
-1789.0,Gaming,Windows 11,2.3,Intel Core i7,4000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
-999.0,Home / Personal,Windows 10,2.5,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
-1329.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
-599.0,Home / Personal,Windows 11,2.3,Ryzen 5,512,AMD Radeon Graphics,1,1920x1080,32,Dell,Fair
-1949.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,Fair
-1349.0,Home / Personal,Windows 11,3.3,Ryzen 5,4000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Lenovo,Fair
-1469.99,Work / Business,Windows 11,1.6,Intel Core i5,4000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
-417.19,Home / Personal,Windows 10,3.0,Intel Core i3,256,Intel UHD Graphics,0,1920x1080,8,HP,Low
-1929.0,Gaming,Windows 11,2.1,Intel Core i5,512,NVIDIA GeForce RTX 4060,0,1920x1080,16,MSI,High
-1599.99,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
-1165.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 4050,0,1920x1080,16,MSI,Fair
-2539.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
-873.11,Home / Personal,Windows 11,1.3,Intel Core i3,256,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
-969.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
-839.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
-1449.0,Gaming,Windows 10,2.5,Intel Core i5,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
-2119.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,1920x1080,64,MSI,High
-1076.84,Work / Business,Windows 10,1.7,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,HP,Fair
-649.99,Home / Personal,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
-1979.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3070,0,1920x1080,16,MSI,High
-1285.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
-1699.0,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
-949.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,1,2736x1824,16,Microsoft,Low
-999.0,Content Creation,Windows 10,3.0,Intel Core i7,256,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
-1499.0,Home / Personal,Windows 11,1.3,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,16,Lenovo,Fair
-1799.0,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,2560x1440,32,MSI,High
-899.99,Work / Business,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
-749.0,Gaming,Windows 10,3.0,Intel Core i3,512,Intel UHD Graphics,0,1366x768,12,Lenovo,Low
-1549.0,Gaming,Windows 11,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,ASUS,High
-1039.99,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,HP,High
-1559.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
-1169.99,Work / Business,Windows 11,1.6,Intel Core i5,2000,Intel Iris Graphics,0,1920x1080,32,Dell,Fair
-1389.0,Work / Business,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
-1199.0,Gaming,Windows 11,2.5,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-659.0,Gaming,Windows 10,2.5,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
-599.99,Content Creation,Windows 11,2.4,Intel Core i5,256,Intel Iris Graphics,1,1536x1024,8,Microsoft,Fair
-1499.99,Versatile,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2496x1664,16,Microsoft,Fair
-1899.99,Versatile,Windows 11,3.1,Intel Core i5,512,Intel Iris Graphics,1,,16,Microsoft,Fair
-629.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2736x1824,8,Microsoft,Low
-799.0,Gaming,Windows 11,3.3,Ryzen 5,512,NVIDIA GeForce RTX 4050,0,1920x1080,8,MSI,Fair
-722.81,Versatile,Windows 11,1.7,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,MSI,Fair
-2399.99,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4060,0,2880x1800,32,ASUS,High
-1748.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3080,0,1920x1080,16,MSI,High
-273.0,Home / Personal,Windows 10,1.9,Intel Core i7,512,Intel UHD Graphics,0,1920x1080,16,Lenovo,Low
-1639.0,Gaming,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,Fair
-1696.95,Versatile,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4050,0,2560x1600,16,MSI,Fair
-1609.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3050,0,1920x1080,40,ASUS,Fair
-2099.0,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
-1238.3,Gaming,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-2199.97,Content Creation,Windows 10,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3060,1,2560x1600,32,MSI,High
-2319.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,High
-2129.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
-1499.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 4060,0,1920x1080,32,MSI,High
-2499.99,Gaming,Windows 11,2.5,Intel Core i7,1000,NVIDIA GeForce RTX 4060,0,2560x1440,16,Razer,High
-999.0,Home / Personal,Windows 10,1.7,Intel Core i5,256,Intel UHD Graphics,1,2256x1504,16,Microsoft,Low
-1049.99,Home / Personal,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,24,Lenovo,Fair
-3799.0,Gaming,Windows 11,2.2,Intel Core i9,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,MSI,Very High
-1059.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,16,Acer,Fair
-1139.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-3349.0,Gaming,Windows 11,2.5,Ryzen 9,2000,NVIDIA GeForce RTX 4080,0,2560x1440,64,ASUS,Very High
-861.0,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
-939.99,Home / Personal,Windows 11,3.3,Ryzen 9,1000,AMD Radeon 680M,0,1920x1080,16,ASUS,Fair
-1659.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
-1799.99,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA T600,0,1920x1080,32,Lenovo,Fair
-2049.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,32,Lenovo,High
-2107.29,Work / Business,Windows 11,2.4,Intel Core i7,2000,NVIDIA GeForce RTX 4060,0,2560x1600,32,MSI,High
-2369.0,Gaming,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,High
-1249.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
-699.0,Home / Personal,Windows 11,2.3,Ryzen 5,1000,AMD Radeon Graphics,1,1920x1080,16,Dell,Fair
-599.0,Home / Personal,Windows 10,1.3,Intel Core i3,128,Intel UHD Graphics,1,1920x1280,8,Microsoft,Low
-634.49,Work / Business,Windows 11,2.4,Intel Core i5,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
-5299.0,Gaming,Windows 11,2.2,Intel Core i9,4000,NVIDIA GeForce RTX 4090,0,3840x2160,128,MSI,Very High
-1599.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,High
-1399.99,Gaming,Windows 11,3.8,Ryzen 7,512,NVIDIA GeForce RTX 4060,0,1920x1200,16,Acer,High
-1849.99,Work / Business,Windows 10,2.6,Intel Core i7,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,Lenovo,Fair
-688.79,Home / Personal,Windows 10,1.0,Intel Core i5,512,Intel UHD Graphics,1,1920x1080,32,Dell,Low
-1229.0,Gaming,Windows 11,2.5,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-2119.0,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
-979.0,Gaming,Windows 10,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
-829.99,Work / Business,Windows 11,2.6,Intel Core i5,512,Intel Iris Graphics,0,,16,Dell,Fair
-629.99,Home / Personal,Windows 11,1.7,Intel Core i7,512,Intel Iris Graphics,1,2560x1600,16,Lenovo,Fair
-388.0,Everyday Value,Windows 10,1.1,Intel Core i3,64,Intel UHD Graphics,1,1920x1280,4,Microsoft,Low
-666.79,Gaming,Windows 10,2.4,Intel Core i5,256,NVIDIA GeForce GTX 1650,0,1920x1080,8,MSI,Fair
-1459.0,Work / Business,Windows 11,1.3,Intel Core i7,512,Intel Iris Graphics,1,1920x1080,16,HP,Fair
-1399.0,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,Fair
-2109.0,Gaming,Windows 10,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
-1149.99,Home / Personal,Windows 11,1.8,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,8,Acer,Low
-899.99,Home / Personal,Windows 10,1.8,Ryzen 7,512,AMD Radeon Graphics,0,1920x1080,8,ASUS,Fair
-969.99,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High
-1429.0,Gaming,Windows 10,3.33,Ryzen 5,2000,NVIDIA GeForce GTX 1650,0,1920x1200,32,Lenovo,Fair
-2008.84,Work / Business,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,3300x2200,16,ASUS,Fair
-1199.0,Gaming,Windows 10,2.5,Intel Core i5,512,NVIDIA GeForce RTX 3050,0,1920x1200,32,Acer,Fair
-1199.99,Gaming,Windows 10,2.5,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
-1299.99,Everyday Value,Windows 10,2.8,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,16,Lenovo,Fair
-2001.49,Gaming,Windows 11,2.6,Intel Core i9,1000,NVIDIA GeForce RTX 4070,0,1920x1080,32,MSI,High
-593.79,Home / Personal,Windows 11,3.0,Intel Core i3,1000,Intel UHD Graphics,0,1920x1080,32,Dell,Low
-1199.99,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,HP,High
-2247.02,Versatile,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
-629.79,Home / Personal,Windows 11,2.4,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,8,Dell,Fair
-1559.0,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,Fair
-1069.99,Work / Business,Windows 11,1.7,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,16,HP,Fair
-1469.99,Gaming,Windows 10,2.5,Intel Core i5,4000,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
-1199.0,Gaming,Windows 11,2.3,Intel Core i5,1000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,Fair
-1249.99,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3060,0,2880x1620,16,ASUS,High
-895.0,Versatile,Windows 10,2.6,Intel Core i5,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,Fair
-1999.99,Versatile,Windows 11,2.5,Intel Core i9,1000,NVIDIA GeForce RTX 3070,1,3840x2160,32,ASUS,High
-1359.0,Gaming,Windows 10,2.4,Intel Core i7,1000,Intel Iris Graphics,1,1920x1080,32,HP,Fair
-1409.75,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,MSI,Fair
-1000.41,Home / Personal,Windows 11,2.5,Intel Core i5,512,Intel Iris Graphics,0,1920x1200,8,ASUS,Fair
-1729.0,Gaming,Windows 10,2.3,Intel Core i5,2000,NVIDIA GeForce RTX 3050,0,1920x1080,64,ASUS,Fair
-3099.0,Versatile,Windows 11,2.5,Intel Core i9,2000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,High
-1059.99,Work / Business,Windows 11,1.3,Intel Core i5,1000,Intel Iris Graphics,0,1920x1080,32,HP,Fair
-1499.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,Fair
-879.0,Home / Personal,Windows 10,2.4,Intel Core i5,256,Intel Iris Graphics,1,2736x1824,8,Microsoft,Fair
-1099.99,Content Creation,Windows 11,3.3,Ryzen 9,1000,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,Fair
-1657.22,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 4070,0,1920x1080,16,MSI,High
-1456.99,Versatile,Windows 11,2.6,Intel Core i5,256,Intel Iris Graphics,1,2880x1920,16,Microsoft,Fair
-1969.0,Gaming,Windows 10,2.9,Ryzen 7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,ASUS,High
-1249.0,Home / Personal,Windows 10,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
-1199.0,Work / Business,Windows 11,2.1,Intel Core i7,512,Intel Iris Graphics,0,1920x1200,16,MSI,Fair
-2384.0,Versatile,Windows 11,1.7,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
-2549.53,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
-913.99,Versatile,Windows 11,2.0,Intel Core i5,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,Fair
-649.0,Home / Personal,Windows 10,1.2,Intel Core i5,128,Intel Iris Graphics,1,2496x1664,8,Microsoft,Fair
-2599.0,Gaming,Windows 11,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,High
-878.99,Home / Personal,Windows 10,2.8,Intel Core i7,512,Intel Iris Graphics,0,1920x1080,16,ASUS,Fair
-1469.0,Home / Personal,Windows 10,3.0,Intel Core i7,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,Fair
-3299.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4090,0,2560x1600,32,Lenovo,Very High
-977.99,Home / Personal,Windows 10,2.7,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,Fair
-1029.0,Home / Personal,Windows 11,2.3,Ryzen 5,2000,AMD Radeon Graphics,0,1920x1080,32,Lenovo,Fair
-897.47,Gaming,Windows 10,2.5,Intel Core i5,256,GeForce GTX 1050 Ti,0,1920x1080,8,Acer,Low
-2249.0,Gaming,Windows 10,2.9,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,1920x1080,64,ASUS,High
-999.0,Work / Business,Windows 11,2.9,Intel Core i7,1000,Intel Iris Graphics,0,1920x1080,16,MSI,Fair
-3799.99,Gaming,Windows 11,2.2,Intel Core i9,1000,NVIDIA GeForce RTX 4080,0,2560x1600,32,Razer,Very High
-2097.99,Content Creation,Windows 11,2.3,Intel Core i7,2000,NVIDIA GeForce RTX 3070,0,3840x2400,16,ASUS,High
-1859.0,Gaming,Windows 10,2.3,Intel Core i7,1000,NVIDIA GeForce RTX 3070,0,1920x1080,32,MSI,High
-1149.99,Home / Personal,Windows 10,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,Fair
-1559.99,Gaming,Windows 11,3.2,Ryzen 7,2000,NVIDIA GeForce RTX 3070,0,2560x1440,64,Acer,High
-1589.0,Gaming,Windows 10,2.3,Intel Core i5,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,Fair
-667.79,Home / Personal,Windows 10,1.0,Intel Core i5,1000,Intel UHD Graphics,1,1920x1080,8,Dell,Low
-2059.0,Gaming,Windows 11,3.2,Ryzen 7,1000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,High
-1289.99,Home / Personal,Windows 11,2.0,Ryzen 7,4000,AMD Radeon Vega 8,0,1920x1080,32,Dell,Low
-1399.0,Work / Business,Windows 11,2.8,Intel Core i7,2000,Intel Iris Graphics,0,1920x1080,64,Dell,Fair
-2255.48,Versatile,Windows 11,2.6,Intel Core i9,2000,NVIDIA GeForce RTX 4050,0,2560x1600,64,MSI,Fair
-1419.0,Gaming,Windows 11,2.3,Intel Core i7,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,High
-1759.0,Gaming,Windows 11,3.2,Ryzen 7,512,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,High
+price,type,os,Ghz,Cpu,Ssd,graphics,ts_info,resolution,memory/ram,Brand,Links,graphics_quality
+722.81,Versatile,Windows 11,1.7,,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,MSI,https://www.newegg.com/bluestone-msi-prestige-14-a12sc-010-content-creation/p/N82E16834156163,Medium
+2499.99,Gaming,Windows 11,2.5,,1000,NVIDIA GeForce RTX 4060,0,2560x1440,16,Razer,https://www.newegg.com/black-razer-blade-15-rz09-0485yed3-r3u1-gaming/p/N82E16834326098?Item=N82E16834326098,High
+2097.99,Content Creation,Windows 11,2.3,,2000,NVIDIA GeForce RTX 3070,0,3840x2400,16,ASUS,https://www.newegg.com/mineral-black-asus-proart-studiobook-h7600zw-db76-content-creation/p/N82E16834236239?Item=9SIA8X5JX36046,High
+1449.99,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 3070,0,2560x1440,32,Acer,https://www.newegg.com/obsidian-black-acer-nitro-5-an515-46-r0eq-gaming/p/N82E16834360247?Item=9SIADG3JPH0828,High
+913.99,Versatile,Windows 11,2.0,,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,https://www.newegg.com/quiet-blue-asus-vivobook-pro-k6500zh-db51-content-creation-home-personal/p/1TS-001A-07WW2?Item=1TS-001A-07WW2,Medium
+599.0,Content Creation,Windows 11,2.4,,256,Intel Iris Graphics,1,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0W729?Item=9SIAKKBJSC9603,Medium
+388.0,Everyday Value,Windows 10,1.1,,64,Intel UHD Graphics,1,1920x1280,4,Microsoft,https://www.newegg.com/microsoft-surface-go-2-rrx-00001-platinum/p/1B4-003A-001P5?Item=9SIAMJPG0H7167,Low
+1179.0,Gaming,Windows 11,2.5,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,16,Acer,https://www.newegg.com/p/2WC-000K-02K75?Item=9SIBB6JK175045,Medium
+1669.0,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,64,Acer,https://www.newegg.com/p/2WC-000K-02KD8?Item=9SIBB6JK185427,High
+1599.99,Work / Business,Windows 11,2.1,,512,Intel Iris Graphics,0,1920x1080,16,Lenovo,https://www.newegg.com/thunder-black-lenovo-thinkpad-l14-gen-3-21c1004nus-work-business/p/N82E16834646917?Item=9SIA24GJ5Z6323,Medium
+1537.99,Versatile,Windows 11,3.2,,1000,NVIDIA GeForce RTX 3050,0,3840x2400,16,ASUS,https://www.newegg.com/asus-vivobook-pro-m7600qe-db74/p/N82E16834236080?Item=9SIA8X5JRZ7487,Medium
+1299.99,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming/p/2WC-000N-0DT47?Item=9SIAA0SJY78239,Medium
+1499.0,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 4060,0,1920x1080,32,MSI,https://www.newegg.com/p/N82E16834156531,High
+2059.0,Gaming,Windows 10,2.9,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,16,ASUS,https://www.newegg.com/p/2WC-000N-09G50?Item=9SIBM7NJW20919,High
+1558.99,Home / Personal,Windows 10,2.8,,256,Intel Iris Graphics,1,2736x1824,16,Microsoft,https://www.newegg.com/microsoft-surface-pro-7-1nc-00001-platinum/p/1B4-003A-00288?Item=1B4-003A-00288,Medium
+1159.0,Gaming,Windows 10,2.5,,1000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/p/2WC-000N-09GC9?Item=9SIBM7NJW21202,Medium
+1099.99,Everyday Value,Windows 10,1.3,,2000,Intel Iris Graphics,0,1600x900,16,ASUS,https://www.newegg.com/silver-asus-vivobook-x712ja/p/1TS-001A-04GF4?Item=9SIAEYAJTB4024,Medium
+2593.57,Versatile,Windows 11,2.6,,4000,NVIDIA GeForce RTX 4060,0,2560x1600,64,MSI,https://www.newegg.com/black-msi-creator-m16-b13vf-1241us-content-creation-work-business/p/N82E16834156525?Item=9SIA6ZPJYK0628,High
+1284.77,Versatile,Windows 11,2.1,,512,NVIDIA GeForce MX550,1,2880x1800,16,ASUS,https://www.newegg.com/pine-gray-asus-zenbook-14x-oled-ux5400zb-db74t-home-personal/p/N82E16834236217?Item=9SIA8X5JX37174,Medium
+1899.0,Gaming,Windows 10,2.4,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,https://www.newegg.com/p/2WC-000C-0E668?Item=9SIBM7NJW12679,Medium
+1488.22,Gaming,Windows 11,2.6,,1000,NVIDIA GeForce RTX 4060 Laptop GPU,0,1920x1080,16,ASUS,https://www.newegg.com/mecha-gray-asus-tuf-gaming-fx507vv-ds91-ca/p/N82E16834236362?Item=9SIAFVFJZT4901,High
+1639.99,Gaming,Windows 11,3.2,,2000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,https://www.newegg.com/black-acer-nitro-5-gaming/p/2WC-000K-028W3?Item=9SIAA0SJWT2947,High
+1648.99,Content Creation,Windows 10,2.3,,512,NVIDIA GeForce RTX 3060,0,3840x2160,16,MSI,https://www.newegg.com/core-black-msi-creator-17-b11ue-471-creating-designing/p/N82E16834156054?Item=9SIA8X5JRH0971,High
+1329.0,Gaming,Windows 11,3.3,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,HP,https://www.newegg.com/p/1TS-000D-18DH6?Item=9SIB6HNJMU4456,Medium
+1279.0,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce RTX 3050,0,1920x1200,16,Acer,https://www.newegg.com/p/2WC-000K-01EF0?Item=9SIBM7NJW20083,Medium
+1449.0,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,https://www.newegg.com/p/2WC-000N-09GB8?Item=9SIBM7NJW21187,Medium
+1999.0,Work / Business,Windows 11,2.2,,1000,NVIDIA GeForce RTX 4050,1,2560x1600,32,MSI,https://www.newegg.com/p/N82E16834156457?Item=N82E16834156457,Medium
+1599.99,Versatile,Windows 11,2.6,,1000,NVIDIA GeForce RTX 4060,1,3200x2000,32,Lenovo,https://www.newegg.com/storm-grey-lenovo-slim-pro-9i-83c00004us/p/N82E16834840211?Item=9SIA7U6JXM1676,High
+2247.02,Versatile,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3080,1,2560x1600,32,MSI,https://www.newegg.com/lunar-gray-msi-creator-z16p-b12uht-041-content-creation/p/N82E16834156172?Item=9SIA7ABJSG5209,High
+289.99,Home / Personal,Windows 11,1.2,,128,Intel UHD Graphics,0,1920x1080,4,Lenovo,https://www.newegg.com/grey-lenovo-ideapad-3-mainstream/p/1TS-000E-11NN3?Item=9SIAEYJJB70932,Low
+2249.99,Home / Personal,Windows 10,2.8,,1000,Intel Iris Graphics,1,2736x1824,16,Microsoft,https://www.newegg.com/microsoft-surface-pro-7-1nf-00001-platinum/p/1B4-003A-002A2?Item=1B4-003A-002A2,Medium
+539.99,Gaming,Windows 11,2.3,,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,MSI,https://www.newegg.com/black-msi-gf-series-katana-gf76-12ud-005-gaming/p/N82E16834156513?Item=9SIAJA2K2E7431,Medium
+1549.0,Gaming,Windows 11,2.3,,2000,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,https://www.newegg.com/p/2WC-000K-02KD6?Item=9SIBB6JK185425,High
+1399.0,Work / Business,Windows 11,2.2,,1000,Intel Iris Graphics,0,1920x1200,32,MSI,https://www.newegg.com/stellar-gray-msi-prestige-13evo-a13m-050us-work-business/p/N82E16834156440?Item=N82E16834156440,Medium
+3799.99,Gaming,Windows 11,2.2,,1000,NVIDIA GeForce RTX 4080,0,2560x1600,32,Razer,https://www.newegg.com/black-razer-blade-18-rz09-0484teh3-r3u1-gaming/p/N82E16834326091?Item=N82E16834326091,Very High
+1519.0,Gaming,Windows 11,2.3,,512,NVIDIA GeForce RTX 3050,0,1920x1080,64,ASUS,https://www.newegg.com/p/1TS-001A-07CJ5?Item=9SIBB6JJ812223,Medium
+1539.99,Gaming,Windows 11,2.6,,1000,NVIDIA GeForce RTX 3050,0,2880x1800,24,ASUS,https://www.newegg.com/p/2WC-000N-0CWE1?Item=9SIAEYAJVS2684,Medium
+599.19,Content Creation,Windows 11,2.4,,512,Intel Iris Graphics,1,1920x1080,8,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0W722?Item=9SIAKKBJS43611,Medium
+2199.99,Work / Business,Windows 11,2.5,,2000,NVIDIA GeForce RTX 3060,1,1920x1080,32,ASUS,https://www.newegg.com/blue-asus-zenbook-pro-duo-15-oled-ux582zm-xs96t-work-business/p/1TS-001A-08U38?Item=9SIADG3JR36381,High
+1979.0,Gaming,Windows 11,2.3,,512,NVIDIA GeForce RTX 3070,0,1920x1080,16,MSI,https://www.newegg.com/p/1TS-0016-04W57?Item=9SIB6HNJMF3712,High
+999.87,Home / Personal,Windows 10,2.8,,512,Intel Iris Graphics,0,1920x1080,16,ASUS,https://www.newegg.com/indie-black-asus-vivobook-s15-s533ea-dh74-mainstream/p/N82E16834235595?Item=9SIBKMGJYG8100,Medium
+1499.99,Versatile,Windows 11,2.4,,1000,NVIDIA GeForce RTX 4050,0,2880x1800,16,Acer,https://www.newegg.com/steel-gray-acer-swift-x-14-sfx14-71g-76lc-content-creation-home-personal/p/N82E16834360295?Item=N82E16834360295,Medium
+799.0,Gaming,Windows 11,3.3,,512,NVIDIA GeForce RTX 4050,0,1920x1080,8,MSI,https://www.newegg.com/p/N82E16834156469,Medium
+1069.99,Gaming,Windows 10,2.5,,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming/p/2WC-000N-0DT50?Item=9SIAA0SJY78242,Medium
+1039.99,Home / Personal,Windows 10,2.4,,128,Intel Iris Graphics,1,2736x1824,8,Microsoft,https://www.newegg.com/microsoft-surface-pro-7-1n9-00001-platinum/p/1B4-003A-002A6?Item=1B4-003A-002A6,Medium
+1155.95,Gaming,Windows 10,2.9,,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,https://www.newegg.com/gray-asus-rog-g14-gaming-entertainment/p/1TS-001A-02DV9?Item=9SIA9SKDNV8097,Medium
+1274.99,Work / Business,Windows 10,3.0,,512,NVIDIA GeForce GTX 1650,0,1920x1080,16,MSI,https://www.newegg.com/carbon-gray-msi-prestige-15-a11sc-034-work-business/p/N82E16834156289?Item=N82E16834156289,Medium
+1249.0,Gaming,Windows 11,2.5,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,https://www.newegg.com/p/2WC-000K-02K76?Item=9SIBB6JK175046,Medium
+1248.99,Gaming,Windows 10,2.3,,512,NVIDIA GTX 1660 Ti,0,1920x1080,16,ASUS,https://www.newegg.com/black-asus-ga502d-gaming-entertainment/p/1TS-001A-00J18?Item=9SIA8X5FJ28267,High
+1499.0,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 4060,0,1920x1080,32,MSI,https://www.newegg.com/p/N82E16834156531?Item=N82E16834156531,High
+720.0,Everyday Value,Windows 10,2.4,,1000,Intel Iris Graphics,0,1920x1080,16,HP,https://www.newegg.com/silver-hp-17-everyday-value/p/1TS-000D-0T0X4?Item=9SIAE4NJY30339,Medium
+869.99,Work / Business,Windows 11,2.1,,2000,Intel Iris Graphics,1,1920x1080,64,Dell,https://www.newegg.com/silver-dell-inspiron-7620-work-business/p/1TS-000A-0VU30?Item=9SIAE4NJPK5509,Medium
+1209.0,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/p/2WC-000N-09GE2?Item=9SIBM7NJW21205,Medium
+919.99,Work / Business,Windows 11,1.6,,1000,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/grey-dell-latitude-7430-work-business/p/1TS-000A-0WB23?Item=9SIAA0SJSH9139,Medium
+1609.0,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,https://www.newegg.com/p/2WC-000K-02KE4?Item=9SIBB6JK185596,High
+259.99,Gaming,Windows 11,1.6,,512,NVIDIA T550,0,1920x1080,32,HP,https://www.newegg.com/silver-hp-zbook-firefly-16-gaming/p/2WC-0001-04KZ7?Item=9SIAA0SJWS7853,Medium
+989.99,Work / Business,Windows 11,1.6,,1000,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/grey-dell-latitude-7430-work-business/p/1TS-000A-0Y172?Item=9SIAA0SJV27256,Medium
+1452.99,Work / Business,Windows 10,2.5,,512,Intel Iris Graphics,1,1920x1200,16,MSI,https://www.newegg.com/ink-black-msi-summit-e13flipevo-a11mt-234-mainstream/p/N82E16834156035?Item=N82E16834156035,Medium
+799.99,Work / Business,Windows 10,2.6,,256,Intel Iris Graphics,0,1920x1080,32,Dell,https://www.newegg.com/silver-dell-latitude-5420-work-business/p/1TS-000A-0N7M7?Item=9SIAE4NJ0A9885,Medium
+1249.99,Work / Business,Windows 11,1.7,,1000,Intel Iris Graphics,0,1920x1080,32,Dell,https://www.newegg.com/silver-dell-latitude-5530-work-business/p/1TS-000A-0W758?Item=9SIAE4NJS44473,Medium
+1349.0,Home / Personal,Windows 11,1.7,,512,Intel Iris Graphics,0,1920x1080,64,Dell,https://www.newegg.com/black-dell-inspiron-3520-mainstream/p/1TS-000A-0W9J2?Item=9SIAMRPJV77877,Medium
+1499.0,Work / Business,Windows 11,1.7,,512,Intel Iris Graphics,0,2560x1600,16,Lenovo,https://www.newegg.com/cloud-grey-lenovo-thinkbook-13x-g2-iap-21at0010us-work-business/p/N82E16834646785?Item=N82E16834646785,Medium
+1699.99,Work / Business,Windows 11,1.6,,4000,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/grey-dell-latitude-7430-work-business/p/1TS-000A-0WB24?Item=9SIAA0SJSH9140,Medium
+1030.99,Home / Personal,Windows 10,2.5,,512,Intel Iris Graphics,1,2560x1600,16,MSI,https://www.newegg.com/p/N82E16834155972?Item=N82E16834155972,Medium
+1849.99,Gaming,Windows 11,2.2,,1000,NVIDIA GeForce RTX 4070,0,2560x1600,32,Lenovo,https://www.newegg.com/onyx-grey-aluminium-pc-abs-lenovo-legion-pro-5-16irx8-82wk00ahus-gaming/p/N82E16834840206?Item=N82E16834840206,High
+1439.0,Gaming,Windows 10,2.4,,1000,Intel Iris Graphics,0,1920x1080,32,HP,https://www.newegg.com/p/2WC-0001-03T37?Item=9SIBM7NJW18178,Medium
+1699.99,Gaming,Windows 10,2.3,,512,NVIDIA T600,0,1920x1080,16,Lenovo,https://www.newegg.com/black-lenovo-thinkpad-p15v-gaming/p/2WC-000J-01570?Item=9SIA8TKJRH0427,Medium
+1609.0,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,https://www.newegg.com/p/2WC-000K-02KE5?Item=9SIBB6JK185597,High
+2599.0,Gaming,Windows 11,2.5,,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,https://www.newegg.com/p/N82E16834156395?Item=N82E16834156395,High
+2099.99,Versatile,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,https://www.newegg.com/tech-black-asus-zenbook-pro-ux6601zw-db76-content-creation-home-personal/p/N82E16834236331?Item=9SIAA0SJV05243,High
+481.0,Home / Personal,Windows 10,3.0,,512,Intel UHD Graphics,0,1920x1080,16,HP,https://www.newegg.com/silver-hp-15/p/1TS-000D-0MDD8?Item=9SIB295K275749,Low
+1799.99,Gaming,Windows 10,2.3,,512,NVIDIA T600,0,1920x1080,32,Lenovo,https://www.newegg.com/black-lenovo-thinkpad-p15v-gaming/p/2WC-000J-01573?Item=9SIA8TKJRH0437,Medium
+1037.88,Work / Business,Windows 11,1.3,,512,Intel Iris Graphics,0,1920x1200,16,Lenovo,https://www.newegg.com/thunder-black-lenovo-thinkpad-t14-gen-3-21ah00bpus-work-business/p/N82E16834646836?Item=9SIA1K6JHT7441,Medium
+1818.99,Gaming,Windows 11,2.1,,1000,NVIDIA GeForce RTX 4070,0,2560x1600,16,Acer,https://www.newegg.com/abyssal-black-acer-predator-helios-16-ph16-71-72yg-gaming/p/N82E16834360250?Item=N82E16834360250,High
+1049.99,Gaming,Windows 11,2.1,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,32,MSI,https://www.newegg.com/carbon-gray-xotic-pc-stealth-15m-series-stealth-15m-b12ue-040-gaming/p/2WC-000C-0DCW4?Item=9SIA686K177599,High
+1079.97,Content Creation,Windows 10,1.3,,1000,Intel Iris Graphics,1,2736x1824,16,Microsoft,https://www.newegg.com/platinum-microsoft-surface-pro-7-vdx-00001/p/N82E16834736093?Item=9SIA5AFD6V5531,Medium
+1399.99,Gaming,Windows 11,3.8,,512,NVIDIA GeForce RTX 4060,0,1920x1200,16,Acer,https://www.newegg.com/obsidian-black-acer-nitro-16-an16-41-r1we/p/N82E16834360269?Item=N82E16834360269,High
+1249.0,Home / Personal,Windows 10,2.3,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,https://www.newegg.com/white-msi-sword15001-mainstream/p/1TS-0016-02VG2?Item=9SIAE4NGC81112,Medium
+2199.0,Gaming,Windows 11,3.3,,2000,AMD Radeon RX Graphics,0,2560x1440,64,ASUS,https://www.newegg.com/black-asus-rog-strix-g15-gaming/p/2WC-000N-0AJ95?Item=9SIAMRPJSW1564,Low
+2239.0,Gaming,Windows 11,3.2,,4000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,https://www.newegg.com/p/1TS-000E-18650?Item=9SIB6HNK1T6034,High
+1349.99,Everyday Value,Windows 10,2.8,,1000,Intel Iris Graphics,1,1920x1080,24,Lenovo,https://www.newegg.com/dark-gray-lenovo-thinkbook-15-g2/p/1TS-000E-0UPB6?Item=9SIA8TKJSW0450,Medium
+2159.0,Gaming,Windows 10,2.9,,512,NVIDIA GeForce RTX 3060,0,1920x1080,64,ASUS,https://www.newegg.com/p/2WC-000N-09G76?Item=9SIBM7NJW20898,High
+549.99,Everyday Value,Windows 11,1.7,,512,Intel Iris Graphics,1,1920x1080,16,Acer,https://www.newegg.com/p/1TS-000X-04JM2,Medium
+539.99,Gaming,Windows 11,3.3,,512,NVIDIA GeForce RTX 4050,0,1920x1080,8,MSI,https://www.newegg.com/p/N82E16834156469?Item=N82E16834156469,Medium
+1046.75,Work / Business,Windows 11,2.9,,1000,Intel Iris Graphics,0,1920x1080,16,MSI,https://www.newegg.com/classic-black-msi-modern-15-b11m-022us-work-business/p/N82E16834156461?Item=9SIA24GJMJ2565,Medium
+1579.0,Gaming,Windows 10,2.5,,4000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/p/2WC-000N-09GF3?Item=9SIBM7NJW21173,Medium
+1329.0,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/p/2WC-000N-09GF8?Item=9SIBM7NJW21171,Medium
+1099.99,Versatile,Windows 11,3.2,,512,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,https://www.newegg.com/pine-gray-asus-zenbook-pro-15-um535qe-xh71t-content-creation-home-personal/p/N82E16834236106?Item=9SIADG3JEC3406,Medium
+1659.0,Gaming,Windows 10,2.5,,4000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,https://www.newegg.com/p/2WC-000N-09GG8?Item=9SIBM7NJW21189,Medium
+1559.99,Gaming,Windows 11,3.2,,2000,NVIDIA GeForce RTX 3070,0,2560x1440,64,Acer,https://www.newegg.com/black-acer-nitro-5-gaming/p/2WC-000K-028X2?Item=9SIAA0SJWT2956,High
+2399.99,Home / Personal,Windows 10,3.0,,1000,Intel Iris Graphics,1,2496x1664,32,Microsoft,https://www.newegg.com/matte-black-with-metal-palm-rest-microsoft-surface-laptop-4-5ix-00001-mainstream/p/N82E16834736446?Item=N82E16834736446,Medium
+1849.99,Work / Business,Windows 10,2.6,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,Lenovo,https://www.newegg.com/p/36B-000D-00BJ9?Item=9SIADG3HTP3533&cm_sp=SH-_-1820178-_-8-_-2-_-9SIADG3HTP3533-_-laptops-_-laptop-_-7,Medium
+1289.99,Gaming,Windows 10,2.5,,512,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,https://www.newegg.com/black-acer-nitro-5-gaming/p/2WC-000K-01032?Item=9SIAA0SJTE6691,Medium
+2599.0,Gaming,Windows 11,2.2,,2000,NVIDIA GeForce RTX 4070,0,2560x1600,32,MSI,https://www.newegg.com/dark-gray-msi-ge-series-raider-ge78hx-smarttp-13vg-057us-gaming/p/N82E16834156497?Item=N82E16834156497,High
+1249.0,Gaming,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,https://www.newegg.com/white-msi-sword15001-mainstream/p/1TS-0016-02VF8?Item=9SIAE4NGC81108,Medium
+1657.22,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 4070,0,1920x1080,16,MSI,https://www.newegg.com/p/N82E16834156448?Item=9SIAFVFJHY9833,High
+599.69,Home / Personal,Windows 11,2.4,,512,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3511-mainstream/p/1TS-000A-0TAA6?Item=9SIAKKBJJX3568,Medium
+1359.0,Home / Personal,Windows 11,2.8,,2000,NVIDIA GeForce MX350,0,1920x1080,16,ASUS,https://www.newegg.com/p/1TS-001A-09UD1?Item=9SIBMCUJYP2866,Medium
+1099.99,Gaming,Windows 11,3.2,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Lenovo,https://www.newegg.com/grey-lenovo-ideapad-3-gaming/p/2WC-000J-027J4?Item=9SIAA0SJPM0160,Medium
+1469.0,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,64,ASUS,https://www.newegg.com/p/2WC-000N-09GG4?Item=9SIBM7NJW21185,Medium
+1849.0,Gaming,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,https://www.newegg.com/p/1TS-0016-04NZ8?Item=9SIB6HNJE65429,Medium
+1139.99,Home / Personal,Windows 11,3.3,,2000,AMD Radeon 680M,0,1920x1080,16,ASUS,https://www.newegg.com/black-asus-vivobook-mainstream/p/1TS-001A-09GJ0?Item=9SIAA0SJVS3776,Medium
+1199.99,Gaming,Windows 11,3.2,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,ASUS,https://www.newegg.com/gray-asus-tuf-gaming-fa507re-a15-r73050t/p/2WC-000N-0AGD4?Item=9SIADG3JCD0731,Medium
+1099.99,Work / Business,Windows 11,2.1,,512,Intel Iris Graphics,1,1920x1080,64,Dell,https://www.newegg.com/silver-dell-inspiron-7620-work-business/p/1TS-000A-0VU24?Item=9SIAE4NJPK5502,Medium
+1036.8,Home / Personal,Windows 10,3.0,,128,Intel UHD Graphics,1,2736x1824,8,Microsoft,https://www.newegg.com/microsoft-surface-pro-7-1n8-00001-platinum/p/1B4-003A-00299?Item=9SIAKACJNV4553,Low
+599.79,Content Creation,Windows 11,2.4,,1000,Intel Iris Graphics,1,1920x1080,8,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0W730?Item=9SIAKKBJSS6658,Medium
+949.99,Home / Personal,Windows 11,1.7,,2000,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3520-mainstream/p/1TS-000A-0W9J1?Item=9SIAE4NJSE9045,Medium
+1085.99,Home / Personal,Windows 11,2.6,,1000,Intel Iris Graphics,0,2800x1620,16,ASUS,https://www.newegg.com/midnight-black-asus-vivobook-s-15-oled-k5504va-es96/p/N82E16834236431?Item=N82E16834236431,Medium
+2549.53,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,https://www.newegg.com/core-black-msi-gs-series-stealth-gs77-12uhs-083-gaming/p/N82E16834156185?Item=9SIA0ZXJS37859,High
+1599.99,Gaming,Windows 11,2.3,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,32,Lenovo,https://www.newegg.com/black-lenovo-ideapad-3-15iah7-gaming/p/1TS-000E-16E60?Item=9SIAE4NJUN3794,Medium
+3299.99,Gaming,Windows 11,2.2,,1000,NVIDIA GeForce RTX 4070,0,3840x2400,32,Razer,https://www.newegg.com/black-razer-blade-16-rz09-0483sej3-r3u1-gaming/p/N82E16834326095?Item=N82E16834326095,High
+649.0,Work / Business,Windows 11,2.9,,1000,Intel Iris Graphics,0,1920x1080,16,MSI,https://www.newegg.com/classic-black-msi-modern-15-b11m-024us-work-business/p/N82E16834156463?Item=N82E16834156463,Medium
+1099.99,Content Creation,Windows 11,3.3,,1000,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,https://www.newegg.com/pine-gray-asus-zenbook-pro-um535qe-xh91t-content-creation/p/N82E16834236027,Medium
+1028.51,Work / Business,Windows 10,1.3,,256,Intel Iris Graphics,0,1920x1080,8,HP,https://www.newegg.com/hp-probook-450-g9-wolf-pro-security-edition-687n8ut-aba-work-business/p/N82E16834273831?Item=9SIA0ZXJFE7033,Medium
+1049.0,Home / Personal,Windows 10,1.7,,2000,NVIDIA GeForce MX550,1,1920x1080,16,Lenovo,https://www.newegg.com/grey-lenovo-ideapad-5-82sf0007us-mainstream/p/1TS-000E-17041?Item=9SIAE4NJV27158,Medium
+999.0,Home / Personal,Windows 10,2.5,,512,Intel Iris Graphics,1,2736x1824,16,Microsoft,https://www.newegg.com/microsoft-surface-pro-fkj-00001/p/N82E16834735439?Item=9SIAEWJBBX9244,Medium
+1419.0,Gaming,Windows 11,2.3,,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,Acer,https://www.newegg.com/p/2WC-000K-02KE3?Item=9SIBB6JK185595,High
+1769.0,Gaming,Windows 11,2.3,,2000,NVIDIA GeForce RTX 3060,0,1920x1080,32,Acer,https://www.newegg.com/p/2WC-000K-02KA6?Item=9SIBB6JK184272,High
+1025.41,Gaming,Windows 11,2.7,,512,NVIDIA GeForce RTX 3050,0,1920x1080,8,MSI,https://www.newegg.com/p/N82E16834156392?Item=9SIA1K6JCD2357,Medium
+989.0,Home / Personal,Windows 10,3.0,,512,Intel Iris Graphics,1,2256x1504,16,Microsoft,https://www.newegg.com/microsoft-surface-laptop-4-13-5eb-00024-ice-blue/p/N82E16834736306?Item=9SIAC8UK1X6316,Medium
+3598.99,Gaming,Windows 11,2.2,,2000,NVIDIA GeForce RTX 4090,0,2560x1600,32,ASUS,https://www.newegg.com/off-black-asus-rog-strix-scar-16-g634jy-xs97-gaming/p/N82E16834236372?Item=N82E16834236372,Very High
+1379.0,Gaming,Windows 10,3.33,,512,NVIDIA GeForce GTX 1650,0,1920x1200,64,Lenovo,https://www.newegg.com/p/2WC-000J-021Z8?Item=9SIBM7NJW18300,Medium
+1309.0,Gaming,Windows 11,2.5,,2000,NVIDIA GeForce RTX 3050,0,1920x1080,64,Acer,https://www.newegg.com/p/2WC-000K-02K79?Item=9SIBB6JK175049,Medium
+1419.0,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,32,MSI,https://www.newegg.com/p/1TS-0016-04Z14?Item=9SIB6HNJSE7895,Medium
+2048.26,Content Creation,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3060,0,2560x1600,32,ASUS,https://www.newegg.com/0-black-asus-vivobook-pro-n7601zm-db77-content-creation/p/N82E16834236222?Item=9SIA25VJUD9434,High
+634.49,Work / Business,Windows 11,2.4,,512,Intel Iris Graphics,1,1920x1080,16,HP,https://www.newegg.com/p/1TS-000D-1D4B2?Item=9SIAJZDJX79380,Medium
+556.79,Content Creation,Windows 11,3.0,,512,Intel UHD Graphics,1,1366x768,12,Lenovo,https://www.newegg.com/brown-lenovo-ideapad-3-content-creation/p/1TS-000E-104K4?Item=9SIAKKBJYS4790,Low
+656.79,Content Creation,Windows 11,2.4,,1000,Intel Iris Graphics,1,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0W725?Item=9SIAKKBJSS6659,Medium
+1449.99,Home / Personal,Windows 11,3.3,,4000,AMD Radeon 680M,0,1920x1080,24,ASUS,https://www.newegg.com/black-asus-vivobook-mainstream/p/1TS-001A-09GJ8?Item=9SIAEYAJVS3796,Medium
+1249.0,Gaming,Windows 10,2.5,,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/p/2WC-000N-09GF4?Item=9SIBM7NJW21217,Medium
+999.0,Home / Personal,Windows 10,2.5,,256,Intel Iris Graphics,1,2256x1504,8,Microsoft,https://www.newegg.com/burgundy-microsoft-surface-laptop-jkq-00036-mainstream/p/N82E16834735753?Item=9SIAEWJB1X1519,Medium
+1319.99,Home / Personal,Windows 11,2.0,,4000,AMD Radeon Vega 8,0,1920x1080,32,Dell,https://www.newegg.com/black-dell-inspiron-3525-mainstream/p/1TS-000A-0XAM4?Item=9SIAA0SJUF9002,Low
+1239.99,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming/p/2WC-000N-0DT48?Item=9SIAA0SJY78240,Medium
+599.79,Work / Business,Windows 11,2.4,,256,Intel Iris Graphics,1,1920x1080,16,Dell,https://www.newegg.com/dell-inspiron-3511-work-business/p/36B-0006-002D0?Item=9SIAKKBJWR8281,Medium
+648.78,Content Creation,Windows 11,1.0,,512,Intel UHD Graphics,1,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0T7J0?Item=9SIAKKBJH99257,Low
+1199.99,Gaming,Windows 10,2.5,,2000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming/p/2WC-000N-0DT59?Item=9SIAEYAJY78497,Medium
+3641.99,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3080,0,2560x1440,32,MSI,https://www.newegg.com/titanium-blue-msi-ge-series-raider-ge76-12uhs-255-gaming/p/N82E16834156179?Item=N82E16834156179,High
+1279.0,Gaming,Windows 10,2.5,,1000,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/p/2WC-000N-09GD6?Item=9SIBM7NJW21073,Medium
+1878.16,Versatile,Windows 10,2.3,,512,NVIDIA GeForce RTX 3060,1,2560x1600,16,MSI,https://www.newegg.com/lunar-gray-msi-creator-z16-a11uet-046-content-creation-work-business/p/N82E16834156232?Item=9SIA1K6J4H1761,High
+619.99,Gaming,Windows 11,3.0,,512,NVIDIA GeForce GTX 1650,0,1920x1080,8,ASUS,https://www.newegg.com/graphite-black-asus-tuf-gaming-a17-fa706ihr-rs53/p/N82E16834236240,Medium
+2496.9,Content Creation,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3070,0,3840x2160,16,MSI,https://www.newegg.com/core-black-msi-creator-17-b11ug-494-creating-designing/p/N82E16834156053?Item=9SIA8X5JPM7775,High
+1599.99,Gaming,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3070,0,2560x1600,32,ASUS,https://www.newegg.com/black-asus-zenbook-pro-gaming/p/2WC-000N-0CHD6?Item=9SIAA0SJV05220,High
+1285.99,Gaming,Windows 11,3.2,,512,NVIDIA GeForce RTX 3050,0,1920x1080,16,ASUS,https://www.newegg.com/eclipse-gray-asus-rog-strix-g17-g713rc-rs73-gaming/p/N82E16834236224?Item=N82E16834236224,Medium
+1179.99,Everyday Value,Windows 10,1.3,,2000,Intel Iris Graphics,0,1600x900,24,ASUS,https://www.newegg.com/silver-asus-vivobook-x712ja/p/1TS-001A-04GF2?Item=9SIAA0SJTB4008,Medium
+1099.99,Gaming,Windows 10,2.5,,1000,NVIDIA GeForce GTX 1650,0,1920x1080,16,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming/p/2WC-000N-0DT54?Item=9SIAEYAJY78492,Medium
+2069.0,Gaming,Windows 10,2.9,,512,NVIDIA GeForce RTX 3060,0,1920x1080,32,ASUS,https://www.newegg.com/p/2WC-000N-09G61?Item=9SIBM7NJW20932,High
+1669.99,Versatile,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3060,1,2560x1600,16,MSI,https://www.newegg.com/lunar-gray-msi-creator-z16-a12uet-031us-content-creation/p/N82E16834156174?Item=N82E16834156174,High
+1139.99,Gaming,Windows 10,2.5,,512,NVIDIA GeForce GTX 1650,0,1920x1080,32,ASUS,https://www.newegg.com/grey-asus-tuf-f15-gaming-entertainment/p/2WC-000N-04WF6?Item=9SIAA0SJY78247,Medium
+969.99,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,https://www.newegg.com/obsidian-black-acer-nitro-5-an515-46-r5xn-gaming/p/N82E16834360253,High
+1354.99,Gaming,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3060,0,1920x1080,16,MSI,https://www.newegg.com/black-msi-gf-series-katana-gf66-11ue-031-gaming/p/N82E16834156372?Item=N82E16834156372,High
+1439.0,Gaming,Windows 10,2.6,,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,MSI,https://www.newegg.com/core-black-msi-gf-series-gf65-10ue-002ca-thin-gaming-entertainment/p/N82E16834155745?Item=9SIB6HNH2N5814,High
+999.99,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 3070,0,2560x1440,16,Acer,https://www.newegg.com/obsidian-black-acer-nitro-5-an515-46-r5xn-gaming/p/N82E16834360253?Item=N82E16834360253,High
+869.99,Work / Business,Windows 11,1.6,,2000,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/grey-dell-latitude-7430-work-business/p/1TS-000A-0Y175?Item=9SIAA0SJV27259,Medium
+1649.0,Gaming,Windows 11,2.1,,1000,Intel Iris Graphics,0,1920x1080,32,HP,https://www.newegg.com/p/2WC-0001-04C84?Item=9SIB6HNJN95116,Medium
+1139.0,Gaming,Windows 10,2.3,,512,NVIDIA GeForce RTX 3050,0,1920x1080,32,Acer,https://www.newegg.com/p/1TS-000X-04Y89?Item=9SIBMCUJVY2885,Medium
+1299.0,Versatile,Windows 11,2.3,,1000,NVIDIA GeForce RTX 3070,1,2560x1600,16,MSI,https://www.newegg.com/lunar-gray-msi-creator-z16p-b12ugst-042-content-creation/p/N82E16834156173?Item=N82E16834156173,High
+1000.41,Home / Personal,Windows 11,2.5,,512,Intel Iris Graphics,0,1920x1200,8,ASUS,https://www.newegg.com/midnight-black-asus-vivobook-s-16x-s5602za-db51-home-personal/p/N82E16834236317?Item=9SIA8H5JY63527,Medium
+1929.0,Gaming,Windows 11,3.2,,1000,NVIDIA GeForce RTX 3070,0,2560x1440,32,Acer,https://www.newegg.com/p/2WC-000K-02KF9?Item=9SIBB6JK186593,High
+1244.99,Versatile,Windows 11,2.4,,1000,NVIDIA GeForce RTX 4050,0,2880x1800,16,Acer,https://www.newegg.com/steel-gray-acer-swift-x-14-sfx14-71g-76lc-content-creation-home-personal/p/N82E16834360295?Item=N82E16834360295,Medium
+1589.0,Gaming,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,24,ASUS,https://www.newegg.com/p/2WC-000N-09784?Item=9SIBM7NJW17995,Medium
+1199.0,Gaming,Windows 10,2.5,,512,NVIDIA GeForce RTX 3050,0,1920x1200,32,Acer,https://www.newegg.com/p/2WC-000K-01EF4?Item=9SIBM7NJW20087,Medium
+1319.99,Gaming,Windows 11,2.3,,2000,NVIDIA GeForce RTX 3060,0,2880x1620,16,ASUS,https://www.newegg.com/black-asus-vivobook-pro-gaming/p/2WC-000N-0BXV5?Item=9SIAA0SJTY9019,High
+599.0,Home / Personal,Windows 11,2.6,,512,AMD Radeon Vega 3,0,1920x1080,16,Acer,https://www.newegg.com/p/2WC-000K-02K54?Item=9SIBB6JK174539,Low
+1969.0,Gaming,Windows 10,2.9,,512,NVIDIA GeForce RTX 3060,0,1920x1080,16,ASUS,https://www.newegg.com/p/2WC-000N-09G47?Item=9SIBM7NJW20915,High
+2639.11,Home / Personal,Windows 11,3.3,,1000,NVIDIA GeForce RTX 3050,1,2400x1600,32,Microsoft,https://www.newegg.com/microsoft-surface-laptop-studio-adi-00001/p/N82E16834736461?Item=9SIAFVFGZ33059,Medium
+1399.99,Gaming,Windows 11,2.1,,1000,NVIDIA GeForce RTX 4060,0,2560x1600,16,Lenovo,https://www.newegg.com/onyx-grey-aluminium-pc-abs-lenovo-legion-pro-5-16irx8-82wk000bus-gaming/p/N82E16834840205?Item=N82E16834840205,High
+869.99,Home / Personal,Windows 11,1.7,,512,Intel Iris Graphics,0,1920x1080,16,Dell,https://www.newegg.com/black-dell-inspiron-3520-mainstream/p/1TS-000A-0W9J0?Item=9SIAE4NJSE9044,Medium
+1099.99,Content Creation,Windows 11,3.3,,1000,NVIDIA GeForce RTX 3050,1,1920x1080,16,ASUS,https://www.newegg.com/pine-gray-asus-zenbook-pro-um535qe-xh91t-content-creation/p/N82E16834236027?Item=N82E16834236027,Medium
+1399.99,Everyday Value,Windows 10,2.8,,2000,Intel Iris Graphics,1,1920x1080,16,Lenovo,https://www.newegg.com/dark-gray-lenovo-thinkbook-15-g2/p/1TS-000E-0UPB7?Item=9SIA8TKJSW0444,Medium
+924.99,Home / Personal,Windows 10,3.0,,128,Intel UHD Graphics,1,2736x1824,8,Microsoft,https://www.newegg.com/microsoft-surface-pro-7-1n8-00001-platinum/p/1B4-003A-00299?Item=1B4-003A-00299,Low
+1016.4,Work / Business,Windows 11,1.3,,256,Intel Iris Graphics,0,1920x1080,8,Lenovo,https://www.newegg.com/mineral-metallic-lenovo-thinkpad-e15-gen-4-21e6007fus-work-business/p/N82E16834646844?Item=9SIB74ZK072626,Medium
+1459.0,Work / Business,Windows 11,1.3,,512,Intel Iris Graphics,1,1920x1080,16,HP,https://www.newegg.com/p/1TS-000D-14NC7?Item=9SIB6HNJ9Z0704,Medium
+1559.0,Gaming,Windows 10,2.4,,1000,Intel Iris Graphics,0,1920x1080,64,HP,https://www.newegg.com/p/2WC-0001-03T41?Item=9SIBM7NJW18190,Medium
+1799.99,Versatile,Windows 11,2.4,,1000,NVIDIA GeForce RTX 4060,0,2560x1600,64,MSI,https://www.newegg.com/black-msi-creator-m16-b13vf-1011us-content-creation-work-business/p/N82E16834156502?Item=N82E16834156502,High
+678.79,Content Creation,Windows 11,1.0,,512,Intel UHD Graphics,1,1920x1080,32,Dell,https://www.newegg.com/black-dell-inspiron-3511-content-creation/p/1TS-000A-0T7J5?Item=9SIAKKBJSC9600,Low
+1599.99,Work / Business,Windows 11,2.1,,1000,Intel Iris Graphics,1,1920x1200,40,Lenovo,https://www.newegg.com/black-lenovo-thinkpad-t16-gen-1-work-business/p/1TS-000E-17N73?Item=9SIADG3K1K3643,Medium
+2799.99,Gaming,Windows 11,2.5,,1000,NVIDIA GeForce RTX 4070,0,2560x1440,16,Razer,https://www.newegg.com/black-razer-blade-15-rz09-0485zed3-r3u1-gaming/p/N82E16834326099?Item=N82E16834326099,High
+1609.0,Gaming,Windows 10,2.3,,1000,NVIDIA GeForce RTX 3050,0,1920x1080,40,ASUS,https://www.newegg.com/p/2WC-000N-09783?Item=9SIBM7NJW18018,Medium
+499.99,Home / Personal,Windows 11,2.0,,512,AMD Radeon Graphics,0,1920x1080,8,Lenovo,https://www.newegg.com/blue-lenovo-ideapad-5-home-personal/p/1XV-0001-027U5,Medium
+1549.99,Gaming,Windows 11,2.5,,1000,NVIDIA GeForce RTX 4060 Laptop GPU,0,2560x1440,16,ASUS,https://www.newegg.com/eclipse-gray-asus-rog-strix-g17-g713pi-ds94-gaming/p/N82E16834236374?Item=N82E16834236374,High
+869.99,Home / Personal,Windows 11,2.0,,1000,AMD Radeon Graphics,0,1920x1080,32,Dell,https://www.newegg.com/black-dell-inspiron-3525-mainstream/p/1TS-000A-0V787?Item=9SIAE4NJND5767,Medium
+2249.0,Gaming,Windows 11,3.2,,4000,NVIDIA GeForce RTX 3060,0,2560x1600,64,Lenovo,https://www.newegg.com/p/1TS-000E-18645?Item=9SIB6HNK1T6029,High
+589.0,Content Creation,Windows 11,2.4,,128,Intel Iris Graphics,1,1536x1024,8,Microsoft,https://www.newegg.com/sandstone-microsoft-surface-laptop-go-2-8qc-00048-content-creation/p/N82E16834736570?Item=9SIAC8UK110077,Medium

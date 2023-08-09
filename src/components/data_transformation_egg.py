@@ -30,7 +30,7 @@ class DataTransformation:
         '''
         try:
             numerical_columns = ["Ghz", "Ssd", "memory/ram"]
-            categorical_ordinal_encoding_columns = ["graphics_quality", "resolution"]
+            categorical_ordinal_encoding_columns = ["graphics_quality", "resolution", 'Cpu','Brand']
 
             num_pipeline= Pipeline(
                 steps=[
@@ -97,13 +97,13 @@ class DataTransformation:
             print("shape of x",input_feature_train_arr.shape)
             print("shape of y",np.array(target_feature_train_df).shape)
 
-            # You get a weird fucking array if you don't transform this
+       
 
             input_feature_train_arr =  sparse.csr_matrix(input_feature_train_arr).toarray()
             input_feature_test_arr =  sparse.csr_matrix(input_feature_test_arr).toarray()
 
-            print("Shit here:",input_feature_train_arr)
-            print("fuck me here:",np.array(target_feature_train_df))
+            # print("Array Here:",input_feature_train_arr)
+            # print("target array here:",np.array(target_feature_train_df))
 
 
             train_arr = np.c_[

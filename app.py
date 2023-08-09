@@ -34,7 +34,7 @@ def predict_datapoint():
 
     # Creating the KNN model to give a simiarltiy recommendation
 
-    #    from sklearn.neighbors import KNeighborsRegressor
+#    from sklearn.neighbors import KNeighborsRegressor
 
     pred_df = pd.DataFrame(data_dict)
 

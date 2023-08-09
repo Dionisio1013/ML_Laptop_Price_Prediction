@@ -61,7 +61,7 @@ function App() {
   const [userInteracted, setUserInteracted] = useState(false);
   const [predictionResult, setPredictionResult] = useState("");
 
-  const handleGhzChange = (ghz: GLfloat) => {
+  const handleGhzChange = (ghz) => {
     setSelectedGhz(ghz);
   };
 
@@ -69,19 +69,19 @@ function App() {
     setUserInteracted(true);
   };
 
-  const handleSelectItem = (item: string) => {
+  const handleSelectItem = (item) => {
     setSelectedCity(item);
   };
 
-  const handleColorSelect = (color: string) => {
+  const handleColorSelect = (color) => {
     setSelectedColor(color);
   };
 
-  const handleSSDSelect = (SSD: Int16Array) => {
+  const handleSSDSelect = (SSD) => {
     setSelectedSSD(SSD);
   };
 
-  const handleRamSelect = (Ram: Int16Array) => {
+  const handleRamSelect = (Ram) => {
     setSelectedRam(Ram);
   };
 

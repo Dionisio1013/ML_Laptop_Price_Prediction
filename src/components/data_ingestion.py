@@ -45,14 +45,22 @@ class DataIngestion:
             # This code is basically telling the computer that there is an order between these cateogrical variables 
             # making them ordinal
 
-            resolution_ordered = ['1366x768', '1536x1024', '1920x1028', '1920x1080', '1920x1200', 
-                       '1920x1280', '2240x1400', '2256x1504', '2260x1400', '2496x1664', 
-                       '2560x1440', '2560x1600', '2736x1824', '2800x1620', '2880x1800', 
-                       '2880x1920', '2880x1620', '3000x2000', '3072x1920', '3200x2000', 
-                       '3240x2160', '3300x2200', '3840x2160', '3840x2400']
+            resolution_ordered = ['1366x768','1536x1024','1600x900','1920x1028','1920x1080',
+                                   '1920x1200','1920x1280','2220x1080','2240x1400','2256x1504',
+                                   '2260x1400','2400x1600','2496x1664','2560x1440','2560x1600',
+                                   '2736x1824','2800x1620','2880x1620','2880x1800','2880x1920',
+                                   '3000x2000','3072x1920','3200x2000','3240x2160','3300x2200',
+                                   '3840x2160','3840x2400']
+            
             print(pd.Categorical(df['resolution'], categories=resolution_ordered, ordered = True))
 
             df['resolution'] = pd.Categorical(df['resolution'], categories=resolution_ordered, ordered = True)
+
+            brand_order = df.groupby('Brand')['price'].mean().sort_values(ascending = True).index
+            df['Brand'] = pd.Categorical(df['Brand'], categories = brand_order, ordered = True)
+
+            cpu_order = df.groupby('Cpu')['price'].mean().sort_values(ascending = True).index
+            df['Cpu'] = pd.Categorical(df['Brand'], categories = cpu_order, ordered = True)
 
             os.makedirs(os.path.dirname(self.ingestion_config.train_data_path), exist_ok=True)
 
